@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ta">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>நடுத்தர பங்குகள் | தமிழ் இன்வெஸ்டர்</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body data-page="midcap">
+    <header class="site-header">
+      <div class="container nav-wrap">
+        <a class="brand" href="index.html" aria-label="தமிழ் இன்வெஸ்டர்">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 64 64" role="img">
+              <rect x="10" y="14" width="10" height="36" rx="3" fill="currentColor"></rect>
+              <rect x="27" y="24" width="10" height="26" rx="3" fill="currentColor"></rect>
+              <rect x="44" y="8" width="10" height="42" rx="3" fill="currentColor"></rect>
+              <path d="M12 12h34" stroke="currentColor" stroke-width="3" stroke-linecap="round"></path>
+              <path d="M48 18l8-8-8-8" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            </svg>
+          </span>
+          <span class="brand-wordmark">
+            <span class="brand-name">தமிழ் இன்வெஸ்டர்</span>
+            <span class="brand-tag">Stock Insight</span>
+          </span>
+        </a>
+        <div class="nav-actions">
+          <nav class="top-nav" aria-label="பிரதான வழிசெலுத்தல்">
+            <a href="index.html" data-i18n="nav.home">முகப்பு</a>
+            <a href="largecap.html" data-i18n="nav.largecap">பெரிய பங்குகள்</a>
+            <a href="midcap.html" class="active" data-i18n="nav.midcap">நடுத்தர பங்குகள்</a>
+            <a href="smallcap.html" data-i18n="nav.smallcap">சிறிய பங்குகள்</a>
+          </nav>
+          <div class="lang-switcher" role="group" aria-label="Language">
+            <button class="lang-btn active" data-lang="ta" aria-pressed="true">தமிழ்</button>
+            <button class="lang-btn" data-lang="en" aria-pressed="false">English</button>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="container page-content">
+      <section class="page-intro">
+        <p class="eyebrow" data-i18n="pages.mid.eyebrow">100 நடுத்தர மூலதன பங்குகள்</p>
+        <h1 data-i18n="pages.mid.title">வளர்ச்சி சாத்தியமும், மிதமான நிலைத்தன்மையும் கொண்ட நிறுவனங்கள்</h1>
+        <p data-i18n="pages.mid.description">இந்தப் பிரிவு நடுத்தர அளவிலான நிறுவனங்களின் வளர்ச்சி சாத்தியத்தையும், விகிதங்களையும் ஒரே பார்வையில் தருகிறது. கிளிக் செய்தால் விரிவான பகுப்பாய்வு திறக்கும்.</p>
+      </section>
+
+      <section class="toolbar">
+        <input id="stock-search" type="search" data-i18n="pages.search.placeholder" placeholder="பங்கு பெயர் அல்லது குறியீடு தேடு..." aria-label="பங்கு தேடல்" />
+        <select id="sort-select" aria-label="வரிசை முறை">
+          <option value="roe" data-i18n="pages.sort.roe">ROE</option>
+          <option value="pe" data-i18n="pages.sort.pe">PE</option>
+          <option value="pb" data-i18n="pages.sort.pb">PB</option>
+          <option value="yield" data-i18n="pages.sort.yield">Dividend Yield</option>
+        </select>
+      </section>
+
+      <section id="stock-list" class="stock-list"></section>
+    </main>
+
+    <div id="stock-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title"></div>
+
+    <footer class="site-footer">
+      <div class="container footer-wrap">
+        <a class="brand brand-footer" href="index.html" aria-label="தமிழ் இன்வெஸ்டர்">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 64 64" role="img">
+              <rect x="10" y="14" width="10" height="36" rx="3" fill="currentColor"></rect>
+              <rect x="27" y="24" width="10" height="26" rx="3" fill="currentColor"></rect>
+              <rect x="44" y="8" width="10" height="42" rx="3" fill="currentColor"></rect>
+              <path d="M12 12h34" stroke="currentColor" stroke-width="3" stroke-linecap="round"></path>
+              <path d="M48 18l8-8-8-8" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            </svg>
+          </span>
+          <span class="brand-wordmark">
+            <span class="brand-name">தமிழ் இன்வெஸ்டர்</span>
+            <span class="brand-tag">Stock Insight</span>
+          </span>
+        </a>
+        <p data-i18n="footer.disclaimer">முதலீட்டு ஆபத்து உள்ளது. இது ஒரு பரிந்துரை அல்ல.</p>
+      </div>
+    </footer>
+
+    <script src="assets/app.js"></script>
+  </body>
+</html>
