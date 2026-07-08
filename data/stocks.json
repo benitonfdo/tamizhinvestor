@@ -1,806 +1,1974 @@
 {
   "largecap": [
     {
-      "symbol": "RELIANCE.NS",
-      "name": "RELIANCE INDUSTRIES LTD",
-      "sector": "Energy",
-      "currency": "INR",
-      "price": 1308.4,
-      "marketCap": 17705887334400,
-      "pe": 21.908909,
-      "pb": 1.9585508,
-      "roe": 0.09139,
-      "debtToEquity": 36.653,
-      "dividendYield": 0.45,
-      "updatedAt": "2026-07-07T16:42:14.766482+00:00"
-    },
-    {
-      "symbol": "TCS.NS",
-      "name": "TATA CONSULTANCY SERV LT",
-      "sector": "Technology",
-      "currency": "INR",
-      "price": 2096.1,
-      "marketCap": 7583873630208,
-      "pe": 15.411368,
-      "pb": 7.0718627,
-      "roe": 0.48395002,
-      "debtToEquity": 10.389,
-      "dividendYield": 6.03,
-      "updatedAt": "2026-07-07T16:42:15.535051+00:00"
-    },
-    {
-      "symbol": "HDFCBANK.NS",
-      "name": "HDFC BANK LTD",
-      "sector": "Financial Services",
-      "currency": "INR",
-      "price": 829.3,
-      "marketCap": 12772231348224,
-      "pe": 18.507029,
-      "pb": 2.17831,
-      "roe": 0.13818,
-      "debtToEquity": null,
-      "dividendYield": 1.57,
-      "updatedAt": "2026-07-07T16:42:15.990123+00:00"
-    },
-    {
-      "symbol": "INFY.NS",
-      "name": "INFOSYS LIMITED",
-      "sector": "Technology",
-      "currency": "INR",
-      "price": 1071.8,
-      "marketCap": 4339641352192,
-      "pe": 14.203552,
-      "pb": 4.680814,
-      "roe": 0.31439,
-      "debtToEquity": 9.827,
-      "dividendYield": 4.8,
-      "updatedAt": "2026-07-07T16:42:16.579374+00:00"
-    },
-    {
-      "symbol": "ICICIBANK.NS",
-      "name": "ICICI BANK LTD.",
-      "sector": "Financial Services",
-      "currency": "INR",
-      "price": 1414.7,
-      "marketCap": 10147134963712,
-      "pe": 18.92069,
-      "pb": 2.7904122,
-      "roe": 0.16359,
-      "debtToEquity": null,
-      "dividendYield": 0.84,
-      "updatedAt": "2026-07-07T16:42:17.176056+00:00"
-    },
-    {
-      "symbol": "HINDUNILVR.NS",
-      "name": "HINDUSTAN UNILEVER LTD.",
-      "sector": "Consumer Defensive",
-      "currency": "INR",
-      "price": 2208.8,
-      "marketCap": 5189777489920,
-      "pe": 48.932213,
-      "pb": 10.648104,
-      "roe": 0.21603,
-      "debtToEquity": 3.016,
-      "dividendYield": 2.0,
-      "updatedAt": "2026-07-07T16:42:18.427416+00:00"
-    },
-    {
-      "symbol": "ITC.NS",
-      "name": "ITC LTD",
-      "sector": "Consumer Defensive",
-      "currency": "INR",
-      "price": 288.75,
-      "marketCap": 3617883947008,
-      "pe": 17.478813,
-      "pb": 4.9897184,
-      "roe": 0.2934,
-      "debtToEquity": 3.293,
-      "dividendYield": 5.55,
-      "updatedAt": "2026-07-07T16:42:18.940960+00:00"
-    },
-    {
       "symbol": "KOTAKBANK.NS",
-      "name": "KOTAK MAHINDRA BANK LTD",
-      "sector": "Financial Services",
+      "name": "Kotak Mahindra Bank Limited",
+      "sector": "Banks - Regional",
       "currency": "INR",
-      "price": 381.7,
-      "marketCap": 3796566016000,
-      "pe": 19.665121,
-      "pb": 2.0958364,
-      "roe": 0.11389,
-      "debtToEquity": null,
-      "dividendYield": 0.17,
-      "updatedAt": "2026-07-07T16:42:19.458823+00:00"
-    },
-    {
-      "symbol": "AXISBANK.NS",
-      "name": "AXIS BANK LIMITED",
-      "sector": "Financial Services",
-      "currency": "INR",
-      "price": 1341.0,
-      "marketCap": 4171553570816,
-      "pe": 15.86419,
-      "pb": 1.9383123,
-      "roe": 0.13152,
-      "debtToEquity": null,
-      "dividendYield": 0.07,
-      "updatedAt": "2026-07-07T16:42:20.064031+00:00"
-    },
-    {
-      "symbol": "SBIN.NS",
-      "name": "STATE BANK OF INDIA",
-      "sector": "Financial Services",
-      "currency": "INR",
-      "price": 1038.1,
-      "marketCap": 9582303772672,
-      "pe": 11.393919,
-      "pb": 1.6074164,
-      "roe": 0.15477,
-      "debtToEquity": null,
-      "dividendYield": 1.67,
-      "updatedAt": "2026-07-07T16:42:20.784877+00:00"
-    },
-    {
-      "symbol": "LT.NS",
-      "name": "LARSEN & TOUBRO LTD.",
-      "sector": "Industrials",
-      "currency": "INR",
-      "price": 3991.9,
-      "marketCap": 5491773145088,
-      "pe": 34.18308,
-      "pb": 5.0246077,
-      "roe": 0.16951999,
-      "debtToEquity": 97.64,
-      "dividendYield": 0.94,
-      "updatedAt": "2026-07-07T16:42:21.418940+00:00"
-    },
-    {
-      "symbol": "BHARTIARTL.NS",
-      "name": "BHARTI AIRTEL LIMITED",
-      "sector": "Communication Services",
-      "currency": "INR",
-      "price": 1925.8,
-      "marketCap": 12014407647232,
-      "pe": 43.481598,
-      "pb": 7.5530457,
-      "roe": 0.19358999,
-      "debtToEquity": 99.718,
-      "dividendYield": 0.83,
-      "updatedAt": "2026-07-07T16:42:21.880152+00:00"
-    },
-    {
-      "symbol": "MARUTI.NS",
-      "name": "MARUTI SUZUKI INDIA LTD.",
-      "sector": "Consumer Cyclical",
-      "currency": "INR",
-      "price": 14538.0,
-      "marketCap": 4570784202752,
-      "pe": 31.135288,
-      "pb": 4.2655106,
-      "roe": 0.14434,
-      "debtToEquity": 0.096,
-      "dividendYield": 0.97,
-      "updatedAt": "2026-07-07T16:42:22.531589+00:00"
-    },
-    {
-      "symbol": "ASIANPAINT.NS",
-      "name": "ASIAN PAINTS LIMITED",
-      "sector": "Basic Materials",
-      "currency": "INR",
-      "price": 2731.4,
-      "marketCap": 2618440810496,
-      "pe": 60.45595,
-      "pb": 12.25904,
-      "roe": 0.20889999,
-      "debtToEquity": 17.847,
-      "dividendYield": 1.0,
-      "updatedAt": "2026-07-07T16:42:22.986567+00:00"
-    },
-    {
-      "symbol": "M&M.NS",
-      "name": "MAHINDRA & MAHINDRA LTD",
-      "sector": "Consumer Cyclical",
-      "currency": "INR",
-      "price": 3196.4,
-      "marketCap": 3838116364288,
-      "pe": 21.020649,
-      "pb": 3.8366714,
-      "roe": 0.18754,
-      "debtToEquity": 125.278,
-      "dividendYield": 1.03,
-      "updatedAt": "2026-07-07T16:42:23.474148+00:00"
-    },
-    {
-      "symbol": "BAJFINANCE.NS",
-      "name": "BAJAJ FINANCE LIMITED",
-      "sector": "Financial Services",
-      "currency": "INR",
-      "price": 1042.5,
-      "marketCap": 6482136399872,
-      "pe": 34.225216,
-      "pb": 5.685165,
-      "roe": 0.17907,
-      "debtToEquity": 313.407,
-      "dividendYield": 0.52,
-      "updatedAt": "2026-07-07T16:42:23.904890+00:00"
-    },
-    {
-      "symbol": "WIPRO.NS",
-      "name": "WIPRO LTD",
-      "sector": "Technology",
-      "currency": "INR",
-      "price": 173.0,
-      "marketCap": 1711254536192,
-      "pe": 13.762928,
-      "pb": 2.047095,
-      "roe": 0.15439999,
-      "debtToEquity": 22.853,
-      "dividendYield": 9.75,
-      "updatedAt": "2026-07-07T16:42:24.368172+00:00"
-    },
-    {
-      "symbol": "TECHM.NS",
-      "name": "TECH MAHINDRA LIMITED",
-      "sector": "Technology",
-      "currency": "INR",
-      "price": 1447.5,
-      "marketCap": 1282227830784,
-      "pe": 26.7313,
-      "pb": 4.328545,
-      "roe": 0.16608,
-      "debtToEquity": 7.269,
-      "dividendYield": 3.63,
-      "updatedAt": "2026-07-07T16:42:25.099442+00:00"
-    },
-    {
-      "symbol": "ULTRACEMCO.NS",
-      "name": "ULTRATECH CEMENT LIMITED",
-      "sector": "Basic Materials",
-      "currency": "INR",
-      "price": 11649.0,
-      "marketCap": 3426782019584,
-      "pe": 41.973843,
-      "pb": 4.756851,
-      "roe": 0.10593,
-      "debtToEquity": 29.432,
-      "dividendYield": 0.66,
-      "updatedAt": "2026-07-07T16:42:25.711824+00:00"
-    },
-    {
-      "symbol": "TITAN.NS",
-      "name": "TITAN COMPANY LIMITED",
-      "sector": "Consumer Cyclical",
-      "currency": "INR",
-      "price": 4604.2,
-      "marketCap": 4084133789696,
-      "pe": 80.84636,
-      "pb": 26.030813,
-      "roe": 0.37127998,
-      "debtToEquity": 195.001,
-      "dividendYield": 0.33,
-      "updatedAt": "2026-07-07T16:42:26.488519+00:00"
-    },
-    {
-      "symbol": "POWERGRID.NS",
-      "name": "POWER GRID CORP. LTD.",
-      "sector": "Utilities",
-      "currency": "INR",
-      "price": 284.35,
-      "marketCap": 2644626898944,
-      "pe": 14.132704,
-      "pb": 2.6306539,
-      "roe": 0.16492,
-      "debtToEquity": 150.993,
-      "dividendYield": 4.29,
-      "updatedAt": "2026-07-07T16:42:27.179549+00:00"
-    },
-    {
-      "symbol": "HCLTECH.NS",
-      "name": "HCL TECHNOLOGIES LTD",
-      "sector": "Technology",
-      "currency": "INR",
-      "price": 1168.2,
-      "marketCap": 3160876515328,
-      "pe": 19.03846,
-      "pb": 4.225854,
-      "roe": 0.23357001,
-      "debtToEquity": 6.935,
-      "dividendYield": 8.46,
-      "updatedAt": "2026-07-07T16:42:27.617833+00:00"
-    },
-    {
-      "symbol": "INDUSINDBK.NS",
-      "name": "INDUSIND BANK LIMITED",
-      "sector": "Financial Services",
-      "currency": "INR",
-      "price": 1022.25,
-      "marketCap": 796468445184,
-      "pe": 89.59246,
-      "pb": 1.2109212,
-      "roe": 0.01362,
-      "debtToEquity": null,
-      "dividendYield": 0.15,
-      "updatedAt": "2026-07-07T16:42:28.068259+00:00"
-    },
-    {
-      "symbol": "COALINDIA.NS",
-      "name": "COAL INDIA LTD",
-      "sector": "Energy",
-      "currency": "INR",
-      "price": 428.95,
-      "marketCap": 2643502563328,
-      "pe": 8.500793,
-      "pb": 2.219319,
-      "roe": 0.28124002,
-      "debtToEquity": 11.629,
-      "dividendYield": 5.09,
-      "updatedAt": "2026-07-07T16:42:28.501365+00:00"
-    },
-    {
-      "symbol": "DIVISLAB.NS",
-      "name": "DIVI S LABORATORIES LTD",
-      "sector": "Healthcare",
-      "currency": "INR",
-      "price": 6771.5,
-      "marketCap": 1797620498432,
-      "pe": 70.0331,
-      "pb": 10.7172985,
-      "roe": 0.16187,
-      "debtToEquity": 0.042,
-      "dividendYield": 0.44,
-      "updatedAt": "2026-07-07T16:42:29.299119+00:00"
-    }
-  ],
-  "midcap": [
-    {
-      "symbol": "PIDILITIND.NS",
-      "name": "PIDILITE INDUSTRIES LTD",
-      "sector": "Basic Materials",
-      "currency": "INR",
-      "price": 1622.3,
-      "marketCap": 1651137052672,
-      "pe": 67.793564,
-      "pb": 15.247038,
-      "roe": 0.23523001,
-      "debtToEquity": 3.776,
-      "dividendYield": 0.71,
-      "updatedAt": "2026-07-07T16:42:29.761646+00:00"
-    },
-    {
-      "symbol": "MUTHOOTFIN.NS",
-      "name": "MUTHOOT FINANCE LIMITED",
-      "sector": "Financial Services",
-      "currency": "INR",
-      "price": 3124.5,
-      "marketCap": 1254388269056,
-      "pe": 11.841059,
-      "pb": 3.2056906,
-      "roe": 0.30406,
-      "debtToEquity": 379.707,
-      "dividendYield": 0.96,
-      "updatedAt": "2026-07-07T16:42:30.165563+00:00"
-    },
-    {
-      "symbol": "AUBANK.NS",
-      "name": "AU SMALL FINANCE BANK LTD",
-      "sector": "Financial Services",
-      "currency": "INR",
-      "price": 1066.9,
-      "marketCap": 798423973888,
-      "pe": 30.456753,
-      "pb": 3.9923515,
-      "roe": null,
-      "debtToEquity": null,
-      "dividendYield": 0.09,
-      "updatedAt": "2026-07-07T16:42:30.566511+00:00"
-    },
-    {
-      "symbol": "POLYCAB.NS",
-      "name": "POLYCAB INDIA LIMITED",
-      "sector": "Industrials",
-      "currency": "INR",
-      "price": 9401.0,
-      "marketCap": 1415587561472,
-      "pe": 53.023125,
-      "pb": 11.78596,
-      "roe": 0.24580999,
-      "debtToEquity": 2.558,
-      "dividendYield": 0.49,
-      "updatedAt": "2026-07-07T16:42:30.977168+00:00"
-    },
-    {
-      "symbol": "JINDALSTEL.NS",
-      "name": "JINDAL STEEL LIMITED",
-      "sector": "Basic Materials",
-      "currency": "INR",
-      "price": 1035.4,
-      "marketCap": 1053507256320,
-      "pe": 31.224367,
-      "pb": 2.0693846,
-      "roe": 0.067719996,
-      "debtToEquity": 43.613,
-      "dividendYield": 0.19,
-      "updatedAt": "2026-07-07T16:42:31.464647+00:00"
-    },
-    {
-      "symbol": "CHOLAFIN.NS",
-      "name": "CHOLAMANDALAM IN & FIN CO",
-      "sector": "Financial Services",
-      "currency": "INR",
-      "price": 1853.4,
-      "marketCap": 1580184109056,
-      "pe": 29.98544,
-      "pb": 5.1790338,
-      "roe": 0.19334999,
-      "debtToEquity": 693.261,
-      "dividendYield": 0.08,
-      "updatedAt": "2026-07-07T16:42:32.139915+00:00"
-    },
-    {
-      "symbol": "TVSMOTOR.NS",
-      "name": "TVS MOTOR COMPANY  LTD",
-      "sector": "Consumer Cyclical",
-      "currency": "INR",
-      "price": 3712.7,
-      "marketCap": 1764372381696,
-      "pe": 58.596905,
-      "pb": 52.802467,
-      "roe": 0.31619,
-      "debtToEquity": 306.09,
-      "dividendYield": 0.32,
-      "updatedAt": "2026-07-07T16:42:32.902550+00:00"
-    },
-    {
-      "symbol": "TRENT.NS",
-      "name": "TRENT LTD",
-      "sector": "Consumer Cyclical",
-      "currency": "INR",
-      "price": 2927.8,
-      "marketCap": 1561197543424,
-      "pe": 91.208725,
-      "pb": 22.351665,
-      "roe": 0.27126,
-      "debtToEquity": 36.034,
-      "dividendYield": 0.12,
-      "updatedAt": "2026-07-07T16:42:33.784418+00:00"
-    },
-    {
-      "symbol": "BALKRISIND.NS",
-      "name": "BALKRISHNA IND. LTD",
-      "sector": "Consumer Cyclical",
-      "currency": "INR",
-      "price": 2255.0,
-      "marketCap": 435930234880,
-      "pe": 35.053627,
-      "pb": 3.9793324,
-      "roe": null,
-      "debtToEquity": 35.269,
-      "dividendYield": 0.75,
-      "updatedAt": "2026-07-07T16:42:34.242162+00:00"
-    },
-    {
-      "symbol": "PAGEIND.NS",
-      "name": "PAGE INDUSTRIES LTD",
-      "sector": "Consumer Cyclical",
-      "currency": "INR",
-      "price": 41780.0,
-      "marketCap": 466008866816,
-      "pe": 61.04528,
-      "pb": 31.013668,
-      "roe": 0.525,
-      "debtToEquity": 18.422,
-      "dividendYield": 1.41,
-      "updatedAt": "2026-07-07T16:42:34.704438+00:00"
-    },
-    {
-      "symbol": "SYNGENE.NS",
-      "name": "SYNGENE INTERNATIONAL LTD",
-      "sector": "Healthcare",
-      "currency": "INR",
-      "price": 422.7,
-      "marketCap": 169829629952,
-      "pe": 53.710293,
-      "pb": 3.5106516,
-      "roe": 0.06621,
-      "debtToEquity": 9.473,
-      "dividendYield": 0.29,
-      "updatedAt": "2026-07-07T16:42:35.412798+00:00"
-    },
-    {
-      "symbol": "GLENMARK.NS",
-      "name": "GLENMARK PHARMACEUTICALS",
-      "sector": "Healthcare",
-      "currency": "INR",
-      "price": 2264.9,
-      "marketCap": 639156551680,
-      "pe": 47.04819,
-      "pb": 6.080676,
-      "roe": 0.14069,
-      "debtToEquity": 5.646,
-      "dividendYield": 0.22,
-      "updatedAt": "2026-07-07T16:42:35.859252+00:00"
-    },
-    {
-      "symbol": "PIIND.NS",
-      "name": "PI INDUSTRIES LTD",
-      "sector": "Basic Materials",
-      "currency": "INR",
-      "price": 2652.3,
-      "marketCap": 402362499072,
-      "pe": 30.489714,
-      "pb": 3.5818996,
-      "roe": 0.123509996,
-      "debtToEquity": 3.048,
-      "dividendYield": 0.56,
-      "updatedAt": "2026-07-07T16:42:36.407381+00:00"
-    },
-    {
-      "symbol": "VOLTAS.NS",
-      "name": "VOLTAS LTD",
-      "sector": "Consumer Cyclical",
-      "currency": "INR",
-      "price": 1288.0,
-      "marketCap": 426179526656,
-      "pe": 113.9823,
-      "pb": 6.6838956,
-      "roe": 0.057189997,
-      "debtToEquity": 15.51,
-      "dividendYield": 0.31,
-      "updatedAt": "2026-07-07T16:42:37.283042+00:00"
-    },
-    {
-      "symbol": "DABUR.NS",
-      "name": "DABUR INDIA LTD",
-      "sector": "Consumer Defensive",
-      "currency": "INR",
-      "price": 453.5,
-      "marketCap": 804487430144,
-      "pe": 42.542213,
-      "pb": 7.0375543,
-      "roe": 0.16239999,
-      "debtToEquity": 10.907,
-      "dividendYield": 1.83,
-      "updatedAt": "2026-07-07T16:42:37.886734+00:00"
-    },
-    {
-      "symbol": "INDIAMART.NS",
-      "name": "INDIAMART INTERMESH LTD",
-      "sector": "Communication Services",
-      "currency": "INR",
-      "price": 1923.5,
-      "marketCap": 115676708864,
-      "pe": 24.416096,
-      "pb": 4.814624,
-      "roe": 0.20703,
-      "debtToEquity": 0.962,
-      "dividendYield": 1.59,
-      "updatedAt": "2026-07-07T16:42:38.703000+00:00"
-    },
-    {
-      "symbol": "JUBLFOOD.NS",
-      "name": "JUBILANT FOODWORKS LTD",
-      "sector": "Consumer Cyclical",
-      "currency": "INR",
-      "price": 454.95,
-      "marketCap": 299209064448,
-      "pe": 79.815796,
-      "pb": 13.082298,
-      "roe": 0.16893,
-      "debtToEquity": 2.655,
-      "dividendYield": 0.27,
-      "updatedAt": "2026-07-07T16:42:39.522306+00:00"
-    },
-    {
-      "symbol": "NMDC.NS",
-      "name": "NMDC LTD.",
-      "sector": "Basic Materials",
-      "currency": "INR",
-      "price": 84.35,
-      "marketCap": 741589778432,
-      "pe": 9.958677,
-      "pb": 2.1731849,
-      "roe": 0.23363,
-      "debtToEquity": 18.802,
-      "dividendYield": 4.11,
-      "updatedAt": "2026-07-07T16:42:39.942349+00:00"
-    },
-    {
-      "symbol": "LICI.NS",
-      "name": "LIFE INSURA CORP OF INDIA",
-      "sector": "Financial Services",
-      "currency": "INR",
-      "price": 435.4,
-      "marketCap": 5507807969280,
-      "pe": 9.590308,
-      "pb": 3.4872732,
-      "roe": 0.42356,
-      "debtToEquity": null,
-      "dividendYield": 2.33,
-      "updatedAt": "2026-07-07T16:42:40.337574+00:00"
-    },
-    {
-      "symbol": "APOLLOHOSP.NS",
-      "name": "APOLLO HOSPITALS ENTER. L",
-      "sector": "Healthcare",
-      "currency": "INR",
-      "price": 8837.0,
-      "marketCap": 1270624944128,
-      "pe": 65.40597,
-      "pb": 13.400155,
-      "roe": 0.21503,
-      "debtToEquity": 85.146,
-      "dividendYield": 0.23,
-      "updatedAt": "2026-07-07T16:42:40.794349+00:00"
-    }
-  ],
-  "smallcap": [
-    {
-      "symbol": "KPITTECH.NS",
-      "name": "KPIT TECHNOLOGIES LIMITED",
-      "sector": "Technology",
-      "currency": "INR",
-      "price": 562.4,
-      "marketCap": 153100599296,
-      "pe": 24.168457,
-      "pb": 4.323759,
-      "roe": 0.1973,
-      "debtToEquity": 23.624,
-      "dividendYield": 1.48,
-      "updatedAt": "2026-07-07T16:42:41.220809+00:00"
-    },
-    {
-      "symbol": "ROUTE.NS",
-      "name": "ROUTE MOBILE LIMITED",
-      "sector": "Communication Services",
-      "currency": "INR",
-      "price": 555.0,
-      "marketCap": 34966708224,
-      "pe": 14.616802,
-      "pb": 1.2626349,
-      "roe": 0.09722,
-      "debtToEquity": 1.488,
-      "dividendYield": 2.18,
-      "updatedAt": "2026-07-07T16:42:41.630247+00:00"
-    },
-    {
-      "symbol": "SJS.NS",
-      "name": "SJS ENTERPRISES LIMITED",
-      "sector": "Consumer Cyclical",
-      "currency": "INR",
-      "price": 2208.3,
-      "marketCap": 70676979712,
-      "pe": 41.689636,
-      "pb": 8.141528,
-      "roe": 0.21881,
-      "debtToEquity": 2.639,
-      "dividendYield": 0.16,
-      "updatedAt": "2026-07-07T16:42:42.035794+00:00"
-    },
-    {
-      "symbol": "BSE.NS",
-      "name": "BSE LIMITED",
-      "sector": "Financial Services",
-      "currency": "INR",
-      "price": 3683.4,
-      "marketCap": 1495935877120,
-      "pe": 60.922924,
-      "pb": 19.02622,
-      "roe": 0.36003,
-      "debtToEquity": 0.0,
-      "dividendYield": 0.26,
-      "updatedAt": "2026-07-07T16:42:42.463277+00:00"
-    },
-    {
-      "symbol": "CAMS.NS",
-      "name": "COMPUTER AGE MNGT SER LTD",
-      "sector": "Technology",
-      "currency": "INR",
-      "price": 776.6,
-      "marketCap": 192755793920,
-      "pe": 40.511215,
-      "pb": 14.579657,
-      "roe": 0.38694,
-      "debtToEquity": 4.863,
-      "dividendYield": 1.58,
-      "updatedAt": "2026-07-07T16:42:42.885978+00:00"
-    },
-    {
-      "symbol": "MFL.NS",
-      "name": "MFL.NS",
-      "sector": null,
-      "currency": null,
-      "price": null,
-      "marketCap": null,
+      "price": 370.1,
+      "marketCap": 3681186677995.0005,
       "pe": null,
       "pb": null,
       "roe": null,
       "debtToEquity": null,
-      "dividendYield": null,
-      "updatedAt": "2026-07-07T16:42:44.344332+00:00"
+      "dividendYield": 0.5,
+      "updatedAt": "2026-07-08T14:35:34.589177+00:00"
     },
     {
-      "symbol": "TARC.NS",
-      "name": "TARC LIMITED",
-      "sector": "Real Estate",
+      "symbol": "ITC.NS",
+      "name": "ITC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ITC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:34.591398+00:00"
+    },
+    {
+      "symbol": "TCS.NS",
+      "name": "TCS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TCS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:34.594102+00:00"
+    },
+    {
+      "symbol": "INFY.NS",
+      "name": "Infosys Limited",
+      "sector": "Information Technology Services",
       "currency": "INR",
-      "price": 127.51,
-      "marketCap": 37627731968,
-      "pe": 199.23439,
-      "pb": 3.5054295,
-      "roe": 0.01808,
-      "debtToEquity": 178.38,
-      "dividendYield": null,
-      "updatedAt": "2026-07-07T16:42:44.857920+00:00"
+      "price": 1069.3,
+      "marketCap": 4329518623787.0005,
+      "pe": null,
+      "pb": null,
+      "roe": null,
+      "debtToEquity": null,
+      "dividendYield": 48,
+      "updatedAt": "2026-07-08T14:35:34.597630+00:00"
+    },
+    {
+      "symbol": "HDFCBANK.NS",
+      "name": "HDFC Bank Limited",
+      "sector": "Banks - Regional",
+      "currency": "INR",
+      "price": 810.3,
+      "marketCap": 12479608177056,
+      "pe": null,
+      "pb": null,
+      "roe": null,
+      "debtToEquity": null,
+      "dividendYield": 15.5,
+      "updatedAt": "2026-07-08T14:35:34.600032+00:00"
+    },
+    {
+      "symbol": "ICICIBANK.NS",
+      "name": "ICICI Bank Limited",
+      "sector": "Banks - Regional",
+      "currency": "INR",
+      "price": 1380.6,
+      "marketCap": 9902547644114,
+      "pe": null,
+      "pb": null,
+      "roe": null,
+      "debtToEquity": null,
+      "dividendYield": 11,
+      "updatedAt": "2026-07-08T14:35:34.601747+00:00"
+    },
+    {
+      "symbol": "SBIN.NS",
+      "name": "State Bank of India",
+      "sector": "Banks - Regional",
+      "currency": "INR",
+      "price": 1016.9,
+      "marketCap": 9386615023203,
+      "pe": null,
+      "pb": null,
+      "roe": null,
+      "debtToEquity": null,
+      "dividendYield": 17.35,
+      "updatedAt": "2026-07-08T14:35:34.603792+00:00"
+    },
+    {
+      "symbol": "RELIANCE.NS",
+      "name": "Reliance Industries Limited",
+      "sector": "Oil & Gas Refining & Marketing",
+      "currency": "INR",
+      "price": 1275.9,
+      "marketCap": 17266081833721,
+      "pe": null,
+      "pb": null,
+      "roe": null,
+      "debtToEquity": null,
+      "dividendYield": 6,
+      "updatedAt": "2026-07-08T14:35:34.605592+00:00"
+    },
+    {
+      "symbol": "HINDUNILVR.NS",
+      "name": "Hindustan Unilever Limited",
+      "sector": "Household & Personal Products",
+      "currency": "INR",
+      "price": 2135.8,
+      "marketCap": 5018257017380,
+      "pe": null,
+      "pb": null,
+      "roe": null,
+      "debtToEquity": null,
+      "dividendYield": 41,
+      "updatedAt": "2026-07-08T14:35:34.607377+00:00"
+    },
+    {
+      "symbol": "AXISBANK.NS",
+      "name": "Axis Bank Limited",
+      "sector": "Banks - Regional",
+      "currency": "INR",
+      "price": 1309.5,
+      "marketCap": 4073396175000,
+      "pe": null,
+      "pb": null,
+      "roe": null,
+      "debtToEquity": null,
+      "dividendYield": 1,
+      "updatedAt": "2026-07-08T14:35:34.608923+00:00"
+    },
+    {
+      "symbol": "ULTRACEMCO.NS",
+      "name": "ULTRACEMCO.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ULTRACEMCO.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:36.199099+00:00"
+    },
+    {
+      "symbol": "BHARTIARTL.NS",
+      "name": "BHARTIARTL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BHARTIARTL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:36.204712+00:00"
+    },
+    {
+      "symbol": "TECHM.NS",
+      "name": "TECHM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TECHM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:36.197862+00:00"
+    },
+    {
+      "symbol": "TITAN.NS",
+      "name": "TITAN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TITAN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:36.221251+00:00"
+    },
+    {
+      "symbol": "BAJFINANCE.NS",
+      "name": "BAJFINANCE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BAJFINANCE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:36.228815+00:00"
+    },
+    {
+      "symbol": "M&M.NS",
+      "name": "M&M.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=M&M.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:36.219186+00:00"
+    },
+    {
+      "symbol": "LT.NS",
+      "name": "LT.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=LT.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:36.211620+00:00"
+    },
+    {
+      "symbol": "MARUTI.NS",
+      "name": "MARUTI.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MARUTI.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:36.248204+00:00"
+    },
+    {
+      "symbol": "WIPRO.NS",
+      "name": "WIPRO.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=WIPRO.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:36.255781+00:00"
+    },
+    {
+      "symbol": "ASIANPAINT.NS",
+      "name": "ASIANPAINT.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ASIANPAINT.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:36.567660+00:00"
+    },
+    {
+      "symbol": "HCLTECH.NS",
+      "name": "HCLTECH.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=HCLTECH.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:37.349659+00:00"
+    },
+    {
+      "symbol": "ADANIPORTS.NS",
+      "name": "ADANIPORTS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ADANIPORTS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:37.354479+00:00"
+    },
+    {
+      "symbol": "BAJAJFINSV.NS",
+      "name": "BAJAJFINSV.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BAJAJFINSV.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:37.360904+00:00"
+    },
+    {
+      "symbol": "DIVISLAB.NS",
+      "name": "DIVISLAB.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=DIVISLAB.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:37.359283+00:00"
+    },
+    {
+      "symbol": "INDUSINDBK.NS",
+      "name": "INDUSINDBK.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=INDUSINDBK.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:37.376334+00:00"
+    },
+    {
+      "symbol": "ADANIGREEN.NS",
+      "name": "ADANIGREEN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ADANIGREEN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:37.388064+00:00"
+    },
+    {
+      "symbol": "POWERGRID.NS",
+      "name": "POWERGRID.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=POWERGRID.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:37.441463+00:00"
+    },
+    {
+      "symbol": "ADANIENT.NS",
+      "name": "ADANIENT.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ADANIENT.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:37.440872+00:00"
+    },
+    {
+      "symbol": "COALINDIA.NS",
+      "name": "COALINDIA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=COALINDIA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:37.675328+00:00"
+    },
+    {
+      "symbol": "ADANITRANS.NS",
+      "name": "ADANITRANS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ADANITRANS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:37.681317+00:00"
+    },
+    {
+      "symbol": "VEDANTA.NS",
+      "name": "VEDANTA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=VEDANTA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:38.425464+00:00"
+    },
+    {
+      "symbol": "HINDALCO.NS",
+      "name": "HINDALCO.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=HINDALCO.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:38.429775+00:00"
+    },
+    {
+      "symbol": "IOC.NS",
+      "name": "IOC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=IOC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:38.433848+00:00"
+    },
+    {
+      "symbol": "JSWSTEEL.NS",
+      "name": "JSWSTEEL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=JSWSTEEL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:38.437618+00:00"
+    },
+    {
+      "symbol": "BPCL.NS",
+      "name": "BPCL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BPCL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:38.441323+00:00"
+    },
+    {
+      "symbol": "NTPC.NS",
+      "name": "NTPC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=NTPC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:38.446433+00:00"
+    },
+    {
+      "symbol": "TATASTEEL.NS",
+      "name": "TATASTEEL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TATASTEEL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:38.450048+00:00"
+    },
+    {
+      "symbol": "ONGC.NS",
+      "name": "ONGC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ONGC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:38.455100+00:00"
+    },
+    {
+      "symbol": "PETRONET.NS",
+      "name": "PETRONET.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=PETRONET.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:38.773530+00:00"
+    },
+    {
+      "symbol": "GAIL.NS",
+      "name": "GAIL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GAIL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:38.779313+00:00"
+    },
+    {
+      "symbol": "CIPLA.NS",
+      "name": "CIPLA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=CIPLA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:39.680360+00:00"
+    },
+    {
+      "symbol": "ALKEM.NS",
+      "name": "ALKEM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ALKEM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:39.683102+00:00"
+    },
+    {
+      "symbol": "TORNTPHARM.NS",
+      "name": "TORNTPHARM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TORNTPHARM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:39.685642+00:00"
+    },
+    {
+      "symbol": "SUNPHARMA.NS",
+      "name": "SUNPHARMA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SUNPHARMA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:39.687879+00:00"
+    },
+    {
+      "symbol": "AUROPHARMA.NS",
+      "name": "AUROPHARMA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=AUROPHARMA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:39.690522+00:00"
+    },
+    {
+      "symbol": "BIOCON.NS",
+      "name": "BIOCON.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BIOCON.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:39.696209+00:00"
+    },
+    {
+      "symbol": "DRREDDY.NS",
+      "name": "DRREDDY.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=DRREDDY.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:39.695305+00:00"
+    },
+    {
+      "symbol": "LUPIN.NS",
+      "name": "LUPIN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=LUPIN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:40.000361+00:00"
+    },
+    {
+      "symbol": "GLENMARK.NS",
+      "name": "GLENMARK.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GLENMARK.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:40.008758+00:00"
+    },
+    {
+      "symbol": "ZYDUSLIFE.NS",
+      "name": "ZYDUSLIFE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ZYDUSLIFE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:40.018183+00:00"
+    },
+    {
+      "symbol": "DABUR.NS",
+      "name": "DABUR.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=DABUR.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:40.933607+00:00"
+    },
+    {
+      "symbol": "MARICO.NS",
+      "name": "MARICO.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MARICO.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:40.932127+00:00"
+    },
+    {
+      "symbol": "PIDILITIND.NS",
+      "name": "PIDILITIND.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=PIDILITIND.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:40.946031+00:00"
+    },
+    {
+      "symbol": "COLPAL.NS",
+      "name": "COLPAL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=COLPAL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:40.930577+00:00"
+    },
+    {
+      "symbol": "EMAMILTD.NS",
+      "name": "EMAMILTD.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=EMAMILTD.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:40.950663+00:00"
+    },
+    {
+      "symbol": "BERGEPAINT.NS",
+      "name": "BERGEPAINT.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BERGEPAINT.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:40.961753+00:00"
+    },
+    {
+      "symbol": "GODREJCP.NS",
+      "name": "GODREJCP.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GODREJCP.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:40.965220+00:00"
+    },
+    {
+      "symbol": "GRASIM.NS",
+      "name": "GRASIM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GRASIM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:41.215593+00:00"
+    },
+    {
+      "symbol": "AKZOINDIA.NS",
+      "name": "AKZOINDIA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=AKZOINDIA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:41.219181+00:00"
+    },
+    {
+      "symbol": "KANSAINER.NS",
+      "name": "KANSAINER.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=KANSAINER.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:41.223746+00:00"
+    },
+    {
+      "symbol": "SHREECEM.NS",
+      "name": "SHREECEM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SHREECEM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:42.138321+00:00"
+    },
+    {
+      "symbol": "AMBUJACEM.NS",
+      "name": "AMBUJACEM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=AMBUJACEM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:42.147191+00:00"
+    },
+    {
+      "symbol": "BAJAJ-AUTO.NS",
+      "name": "BAJAJ-AUTO.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BAJAJ-AUTO.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:42.151109+00:00"
+    },
+    {
+      "symbol": "HEROMOTOCO.NS",
+      "name": "HEROMOTOCO.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=HEROMOTOCO.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:42.145969+00:00"
+    },
+    {
+      "symbol": "RAMCOCEM.NS",
+      "name": "RAMCOCEM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=RAMCOCEM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:42.156075+00:00"
+    },
+    {
+      "symbol": "DALBHARAT.NS",
+      "name": "DALBHARAT.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=DALBHARAT.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:42.159831+00:00"
+    },
+    {
+      "symbol": "BALKRISIND.NS",
+      "name": "BALKRISIND.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BALKRISIND.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:42.461676+00:00"
+    },
+    {
+      "symbol": "EICHERMOT.NS",
+      "name": "EICHERMOT.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=EICHERMOT.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:42.469124+00:00"
+    },
+    {
+      "symbol": "TVSMOTOR.NS",
+      "name": "TVSMOTOR.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TVSMOTOR.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:42.474763+00:00"
+    },
+    {
+      "symbol": "ACC.NS",
+      "name": "ACC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ACC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:42.766571+00:00"
+    },
+    {
+      "symbol": "HDFCLIFE.NS",
+      "name": "HDFCLIFE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=HDFCLIFE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:43.266867+00:00"
+    },
+    {
+      "symbol": "BOSCHLTD.NS",
+      "name": "BOSCHLTD.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BOSCHLTD.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:43.271254+00:00"
+    },
+    {
+      "symbol": "MRF.NS",
+      "name": "MRF.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MRF.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:43.275360+00:00"
+    },
+    {
+      "symbol": "MOTHERSUMI.NS",
+      "name": "MOTHERSUMI.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MOTHERSUMI.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:43.277722+00:00"
+    },
+    {
+      "symbol": "CEAT.NS",
+      "name": "CEAT.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=CEAT.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:43.280493+00:00"
+    },
+    {
+      "symbol": "APOLLOTYRE.NS",
+      "name": "APOLLOTYRE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=APOLLOTYRE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:43.283410+00:00"
+    },
+    {
+      "symbol": "SBILIFE.NS",
+      "name": "SBILIFE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SBILIFE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:43.517271+00:00"
+    },
+    {
+      "symbol": "ICICIPRULI.NS",
+      "name": "ICICIPRULI.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ICICIPRULI.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:43.526986+00:00"
+    },
+    {
+      "symbol": "HDFCAMC.NS",
+      "name": "HDFCAMC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=HDFCAMC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:43.527495+00:00"
+    },
+    {
+      "symbol": "NIPPONAMC.NS",
+      "name": "NIPPONAMC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=NIPPONAMC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:43.844094+00:00"
+    },
+    {
+      "symbol": "CHOLAFIN.NS",
+      "name": "CHOLAFIN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=CHOLAFIN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:44.546067+00:00"
+    },
+    {
+      "symbol": "ICICIGI.NS",
+      "name": "ICICIGI.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ICICIGI.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:44.549592+00:00"
+    },
+    {
+      "symbol": "BANDHANBNK.NS",
+      "name": "BANDHANBNK.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BANDHANBNK.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:44.553128+00:00"
+    },
+    {
+      "symbol": "AUBANK.NS",
+      "name": "AUBANK.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=AUBANK.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:44.557820+00:00"
+    },
+    {
+      "symbol": "BAJAJHLDNG.NS",
+      "name": "BAJAJHLDNG.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BAJAJHLDNG.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:44.562339+00:00"
+    },
+    {
+      "symbol": "MUTHOOTFIN.NS",
+      "name": "MUTHOOTFIN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MUTHOOTFIN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:44.567824+00:00"
+    },
+    {
+      "symbol": "IDFCFIRSTB.NS",
+      "name": "IDFCFIRSTB.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=IDFCFIRSTB.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:44.804460+00:00"
+    },
+    {
+      "symbol": "FEDERALBNK.NS",
+      "name": "FEDERALBNK.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=FEDERALBNK.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:44.812899+00:00"
+    },
+    {
+      "symbol": "RBLBANK.NS",
+      "name": "RBLBANK.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=RBLBANK.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:44.817381+00:00"
+    },
+    {
+      "symbol": "YESBANK.NS",
+      "name": "YESBANK.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=YESBANK.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:45.119018+00:00"
+    },
+    {
+      "symbol": "PAGEIND.NS",
+      "name": "PAGEIND.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=PAGEIND.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:45.894403+00:00"
+    },
+    {
+      "symbol": "DMART.NS",
+      "name": "DMART.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=DMART.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:45.904021+00:00"
+    },
+    {
+      "symbol": "DEVYANI.NS",
+      "name": "DEVYANI.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=DEVYANI.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:45.900700+00:00"
+    },
+    {
+      "symbol": "VBL.NS",
+      "name": "VBL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=VBL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:45.919013+00:00"
+    },
+    {
+      "symbol": "TRENT.NS",
+      "name": "TRENT.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TRENT.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:45.926575+00:00"
+    },
+    {
+      "symbol": "JUBLFOOD.NS",
+      "name": "JUBLFOOD.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=JUBLFOOD.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:45.934189+00:00"
+    },
+    {
+      "symbol": "RADICO.NS",
+      "name": "RADICO.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=RADICO.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:46.245225+00:00"
+    },
+    {
+      "symbol": "UNITDSPR.NS",
+      "name": "UNITDSPR.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=UNITDSPR.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:46.250957+00:00"
+    },
+    {
+      "symbol": "MCDOWELL-N.NS",
+      "name": "MCDOWELL-N.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MCDOWELL-N.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:46.371219+00:00"
+    },
+    {
+      "symbol": "UBL.NS",
+      "name": "UBL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=UBL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:46.559978+00:00"
+    },
+    {
+      "symbol": "BLUESTARCO.NS",
+      "name": "BLUESTARCO.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BLUESTARCO.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:47.174689+00:00"
+    },
+    {
+      "symbol": "WHIRLPOOL.NS",
+      "name": "WHIRLPOOL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=WHIRLPOOL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:47.178893+00:00"
+    },
+    {
+      "symbol": "VOLTAS.NS",
+      "name": "VOLTAS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=VOLTAS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:47.182123+00:00"
+    },
+    {
+      "symbol": "POLYCAB.NS",
+      "name": "POLYCAB.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=POLYCAB.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:47.178122+00:00"
+    },
+    {
+      "symbol": "HAVELLS.NS",
+      "name": "HAVELLS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=HAVELLS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:47.188079+00:00"
+    },
+    {
+      "symbol": "CROMPTON.NS",
+      "name": "CROMPTON.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=CROMPTON.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:47.188986+00:00"
+    },
+    {
+      "symbol": "KEI.NS",
+      "name": "KEI.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=KEI.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:47.482147+00:00"
+    },
+    {
+      "symbol": "FINOLEX.NS",
+      "name": "FINOLEX.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=FINOLEX.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:47.486817+00:00"
+    },
+    {
+      "symbol": "RRKABEL.NS",
+      "name": "RRKABEL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=RRKABEL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:47.480390+00:00"
+    },
+    {
+      "symbol": "GUJGASLTD.NS",
+      "name": "GUJGASLTD.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GUJGASLTD.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:47.771721+00:00"
+    },
+    {
+      "symbol": "PETRONET.NS",
+      "name": "PETRONET.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=PETRONET.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:48.486368+00:00"
+    },
+    {
+      "symbol": "GUJGASLTD.NS",
+      "name": "GUJGASLTD.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GUJGASLTD.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:48.484606+00:00"
+    },
+    {
+      "symbol": "ATGL.NS",
+      "name": "ATGL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ATGL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:48.493730+00:00"
+    },
+    {
+      "symbol": "IGL.NS",
+      "name": "IGL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=IGL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:48.495403+00:00"
+    },
+    {
+      "symbol": "MGL.NS",
+      "name": "MGL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MGL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:48.553921+00:00"
+    }
+  ],
+  "midcap": [
+    {
+      "symbol": "MUTHOOTFIN.NS",
+      "name": "MUTHOOTFIN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MUTHOOTFIN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:49.841345+00:00"
+    },
+    {
+      "symbol": "POLYCAB.NS",
+      "name": "POLYCAB.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=POLYCAB.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:49.840071+00:00"
+    },
+    {
+      "symbol": "TRENT.NS",
+      "name": "TRENT.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TRENT.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:49.847528+00:00"
+    },
+    {
+      "symbol": "PAGEIND.NS",
+      "name": "PAGEIND.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=PAGEIND.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:49.855863+00:00"
+    },
+    {
+      "symbol": "JINDALSTEL.NS",
+      "name": "JINDALSTEL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=JINDALSTEL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:49.854672+00:00"
+    },
+    {
+      "symbol": "BALKRISIND.NS",
+      "name": "BALKRISIND.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BALKRISIND.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:49.863293+00:00"
+    },
+    {
+      "symbol": "AUBANK.NS",
+      "name": "AUBANK.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=AUBANK.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:49.853211+00:00"
+    },
+    {
+      "symbol": "CHOLAFIN.NS",
+      "name": "CHOLAFIN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=CHOLAFIN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:49.869686+00:00"
+    },
+    {
+      "symbol": "TVSMOTOR.NS",
+      "name": "TVSMOTOR.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TVSMOTOR.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:49.866865+00:00"
+    },
+    {
+      "symbol": "PIDILITIND.NS",
+      "name": "PIDILITIND.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=PIDILITIND.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:49.857433+00:00"
+    },
+    {
+      "symbol": "NMDC.NS",
+      "name": "NMDC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=NMDC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:51.190591+00:00"
+    },
+    {
+      "symbol": "PIIND.NS",
+      "name": "PIIND.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=PIIND.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:51.192647+00:00"
+    },
+    {
+      "symbol": "INDIAMART.NS",
+      "name": "INDIAMART.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=INDIAMART.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:51.194672+00:00"
+    },
+    {
+      "symbol": "DABUR.NS",
+      "name": "DABUR.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=DABUR.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:51.196632+00:00"
+    },
+    {
+      "symbol": "VOLTAS.NS",
+      "name": "VOLTAS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=VOLTAS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:51.198562+00:00"
+    },
+    {
+      "symbol": "JUBLFOOD.NS",
+      "name": "JUBLFOOD.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=JUBLFOOD.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:51.200586+00:00"
+    },
+    {
+      "symbol": "LICI.NS",
+      "name": "LICI.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=LICI.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:51.202574+00:00"
+    },
+    {
+      "symbol": "GLENMARK.NS",
+      "name": "GLENMARK.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GLENMARK.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:51.206238+00:00"
+    },
+    {
+      "symbol": "APOLLOHOSP.NS",
+      "name": "APOLLOHOSP.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=APOLLOHOSP.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:51.205800+00:00"
+    },
+    {
+      "symbol": "SYNGENE.NS",
+      "name": "SYNGENE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SYNGENE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:51.211463+00:00"
+    },
+    {
+      "symbol": "MPHASIS.NS",
+      "name": "MPHASIS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MPHASIS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:52.535855+00:00"
+    },
+    {
+      "symbol": "ZENSARTECH.NS",
+      "name": "ZENSARTECH.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ZENSARTECH.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:52.540056+00:00"
+    },
+    {
+      "symbol": "CYIENT.NS",
+      "name": "CYIENT.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=CYIENT.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:52.547449+00:00"
+    },
+    {
+      "symbol": "SONATSOFTW.NS",
+      "name": "SONATSOFTW.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SONATSOFTW.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:52.546732+00:00"
+    },
+    {
+      "symbol": "KPITTECH.NS",
+      "name": "KPITTECH.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=KPITTECH.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:52.538055+00:00"
+    },
+    {
+      "symbol": "TATAELXSI.NS",
+      "name": "TATAELXSI.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TATAELXSI.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:52.555912+00:00"
+    },
+    {
+      "symbol": "LTIM.NS",
+      "name": "LTIM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=LTIM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:52.554967+00:00"
+    },
+    {
+      "symbol": "OFSS.NS",
+      "name": "OFSS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=OFSS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:52.562870+00:00"
+    },
+    {
+      "symbol": "COFORGE.NS",
+      "name": "COFORGE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=COFORGE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:52.561315+00:00"
+    },
+    {
+      "symbol": "PERSISTENT.NS",
+      "name": "PERSISTENT.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=PERSISTENT.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:52.885249+00:00"
+    },
+    {
+      "symbol": "PRISMCEM.NS",
+      "name": "PRISMCEM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=PRISMCEM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:53.707118+00:00"
+    },
+    {
+      "symbol": "FIRSTSOURCE.NS",
+      "name": "FIRSTSOURCE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=FIRSTSOURCE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:53.714542+00:00"
+    },
+    {
+      "symbol": "INTELLECT.NS",
+      "name": "INTELLECT.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=INTELLECT.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:53.723826+00:00"
+    },
+    {
+      "symbol": "RAMCOCEM.NS",
+      "name": "RAMCOCEM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=RAMCOCEM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:53.728725+00:00"
+    },
+    {
+      "symbol": "NEWGEN.NS",
+      "name": "NEWGEN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=NEWGEN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:53.733525+00:00"
+    },
+    {
+      "symbol": "ORIENTCEM.NS",
+      "name": "ORIENTCEM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ORIENTCEM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:53.721766+00:00"
+    },
+    {
+      "symbol": "HEIDELBERG.NS",
+      "name": "HEIDELBERG.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=HEIDELBERG.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:53.741147+00:00"
+    },
+    {
+      "symbol": "JKCEMENT.NS",
+      "name": "JKCEMENT.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=JKCEMENT.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:53.744873+00:00"
+    },
+    {
+      "symbol": "SAGARCEM.NS",
+      "name": "SAGARCEM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SAGARCEM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:53.747918+00:00"
+    },
+    {
+      "symbol": "KCP.NS",
+      "name": "KCP.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=KCP.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:54.019745+00:00"
+    },
+    {
+      "symbol": "FINOLEX.NS",
+      "name": "FINOLEX.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=FINOLEX.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:54.750275+00:00"
+    },
+    {
+      "symbol": "MGL.NS",
+      "name": "MGL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MGL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:54.749418+00:00"
+    },
+    {
+      "symbol": "IGL.NS",
+      "name": "IGL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=IGL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:54.754871+00:00"
+    },
+    {
+      "symbol": "ATGL.NS",
+      "name": "ATGL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ATGL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:54.757577+00:00"
+    },
+    {
+      "symbol": "RRKABEL.NS",
+      "name": "RRKABEL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=RRKABEL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:54.759956+00:00"
+    },
+    {
+      "symbol": "GUJGASLTD.NS",
+      "name": "GUJGASLTD.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GUJGASLTD.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:54.762129+00:00"
     },
     {
       "symbol": "IRCTC.NS",
-      "name": "INDIAN RAIL TOUR CORP LTD",
-      "sector": "Consumer Cyclical",
-      "currency": "INR",
-      "price": 500.7,
-      "marketCap": 400559996928,
-      "pe": 28.759335,
-      "pb": 9.296843,
-      "roe": 0.34959,
-      "debtToEquity": 1.874,
-      "dividendYield": 1.87,
-      "updatedAt": "2026-07-07T16:42:45.271944+00:00"
+      "name": "IRCTC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=IRCTC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:54.764532+00:00"
+    },
+    {
+      "symbol": "KEI.NS",
+      "name": "KEI.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=KEI.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:54.869323+00:00"
+    },
+    {
+      "symbol": "RAILTEL.NS",
+      "name": "RAILTEL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=RAILTEL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:54.988740+00:00"
+    },
+    {
+      "symbol": "GSPL.NS",
+      "name": "GSPL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GSPL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:55.076349+00:00"
+    },
+    {
+      "symbol": "NBCC.NS",
+      "name": "NBCC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=NBCC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:55.731555+00:00"
+    },
+    {
+      "symbol": "CONCOR.NS",
+      "name": "CONCOR.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=CONCOR.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:55.741964+00:00"
+    },
+    {
+      "symbol": "RITES.NS",
+      "name": "RITES.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=RITES.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:55.746030+00:00"
+    },
+    {
+      "symbol": "IRCON.NS",
+      "name": "IRCON.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=IRCON.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:55.749707+00:00"
+    },
+    {
+      "symbol": "HAL.NS",
+      "name": "HAL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=HAL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:55.738986+00:00"
+    },
+    {
+      "symbol": "RVNL.NS",
+      "name": "RVNL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=RVNL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:55.753826+00:00"
+    },
+    {
+      "symbol": "BEL.NS",
+      "name": "BEL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BEL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:55.761259+00:00"
+    },
+    {
+      "symbol": "BDL.NS",
+      "name": "BDL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BDL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:55.940921+00:00"
+    },
+    {
+      "symbol": "MAZAGON.NS",
+      "name": "MAZAGON.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MAZAGON.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:55.976820+00:00"
+    },
+    {
+      "symbol": "COCHINSHIP.NS",
+      "name": "COCHINSHIP.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=COCHINSHIP.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:56.060651+00:00"
+    },
+    {
+      "symbol": "NHPC.NS",
+      "name": "NHPC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=NHPC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:56.889495+00:00"
+    },
+    {
+      "symbol": "POWERGRID.NS",
+      "name": "POWERGRID.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=POWERGRID.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:56.891877+00:00"
+    },
+    {
+      "symbol": "THDC.NS",
+      "name": "THDC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=THDC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:56.895533+00:00"
+    },
+    {
+      "symbol": "GRSE.NS",
+      "name": "GRSE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GRSE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:56.888758+00:00"
+    },
+    {
+      "symbol": "HINDCOPPER.NS",
+      "name": "HINDCOPPER.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=HINDCOPPER.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:56.899714+00:00"
+    },
+    {
+      "symbol": "SJVN.NS",
+      "name": "SJVN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SJVN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:56.902720+00:00"
+    },
+    {
+      "symbol": "NLCINDIA.NS",
+      "name": "NLCINDIA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=NLCINDIA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:56.905799+00:00"
+    },
+    {
+      "symbol": "IRFC.NS",
+      "name": "IRFC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=IRFC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:57.213323+00:00"
+    },
+    {
+      "symbol": "PFC.NS",
+      "name": "PFC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=PFC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:57.218999+00:00"
+    },
+    {
+      "symbol": "RECLTD.NS",
+      "name": "RECLTD.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=RECLTD.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:57.224295+00:00"
+    },
+    {
+      "symbol": "SUNDARAMFIN.NS",
+      "name": "SUNDARAMFIN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SUNDARAMFIN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:58.132152+00:00"
+    },
+    {
+      "symbol": "AADHARHFC.NS",
+      "name": "AADHARHFC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=AADHARHFC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:58.136429+00:00"
+    },
+    {
+      "symbol": "M&MFIN.NS",
+      "name": "M&MFIN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=M&MFIN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:58.141056+00:00"
+    },
+    {
+      "symbol": "REPCOHOME.NS",
+      "name": "REPCOHOME.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=REPCOHOME.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:58.129756+00:00"
+    },
+    {
+      "symbol": "CANFINHOME.NS",
+      "name": "CANFINHOME.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=CANFINHOME.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:58.130820+00:00"
+    },
+    {
+      "symbol": "LICHSGFIN.NS",
+      "name": "LICHSGFIN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=LICHSGFIN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:58.128303+00:00"
+    },
+    {
+      "symbol": "BAJAJHLDNG.NS",
+      "name": "BAJAJHLDNG.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BAJAJHLDNG.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:58.139904+00:00"
+    },
+    {
+      "symbol": "CHOICEIN.NS",
+      "name": "CHOICEIN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=CHOICEIN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:58.446304+00:00"
+    },
+    {
+      "symbol": "UJJIVANSFB.NS",
+      "name": "UJJIVANSFB.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=UJJIVANSFB.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:58.451866+00:00"
+    },
+    {
+      "symbol": "MASFIN.NS",
+      "name": "MASFIN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MASFIN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:58.461027+00:00"
+    },
+    {
+      "symbol": "FINCARE.NS",
+      "name": "FINCARE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=FINCARE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:59.311209+00:00"
+    },
+    {
+      "symbol": "JANABANK.NS",
+      "name": "JANABANK.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=JANABANK.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:59.313847+00:00"
+    },
+    {
+      "symbol": "EQUITAS.NS",
+      "name": "EQUITAS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=EQUITAS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:59.315894+00:00"
+    },
+    {
+      "symbol": "SURYODAY.NS",
+      "name": "SURYODAY.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SURYODAY.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:59.319222+00:00"
+    },
+    {
+      "symbol": "UTKARSH.NS",
+      "name": "UTKARSH.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=UTKARSH.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:59.318299+00:00"
+    },
+    {
+      "symbol": "MAHINDRA.NS",
+      "name": "MAHINDRA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MAHINDRA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:59.321304+00:00"
+    },
+    {
+      "symbol": "ESCORTS.NS",
+      "name": "ESCORTS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ESCORTS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:59.325954+00:00"
+    },
+    {
+      "symbol": "SWARAJENG.NS",
+      "name": "SWARAJENG.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SWARAJENG.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:59.667389+00:00"
+    },
+    {
+      "symbol": "TAFE.NS",
+      "name": "TAFE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TAFE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:59.668217+00:00"
+    },
+    {
+      "symbol": "GREAVES.NS",
+      "name": "GREAVES.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GREAVES.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:35:59.673620+00:00"
+    },
+    {
+      "symbol": "MINDAIND.NS",
+      "name": "MINDAIND.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MINDAIND.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:00.588741+00:00"
+    },
+    {
+      "symbol": "ENDURANCE.NS",
+      "name": "ENDURANCE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ENDURANCE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:00.586708+00:00"
+    },
+    {
+      "symbol": "SCHAEFFLER.NS",
+      "name": "SCHAEFFLER.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SCHAEFFLER.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:00.600708+00:00"
+    },
+    {
+      "symbol": "UNOMINDA.NS",
+      "name": "UNOMINDA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=UNOMINDA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:00.607349+00:00"
+    },
+    {
+      "symbol": "SUBROS.NS",
+      "name": "SUBROS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SUBROS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:00.610887+00:00"
+    },
+    {
+      "symbol": "TUBEINVEST.NS",
+      "name": "TUBEINVEST.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TUBEINVEST.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:00.614866+00:00"
+    },
+    {
+      "symbol": "TIMKEN.NS",
+      "name": "TIMKEN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TIMKEN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:00.642151+00:00"
+    },
+    {
+      "symbol": "NRBBEARING.NS",
+      "name": "NRBBEARING.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=NRBBEARING.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:00.878124+00:00"
+    },
+    {
+      "symbol": "GALAXYSURF.NS",
+      "name": "GALAXYSURF.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GALAXYSURF.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:00.880587+00:00"
+    },
+    {
+      "symbol": "SKFINDIA.NS",
+      "name": "SKFINDIA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SKFINDIA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:00.902851+00:00"
+    },
+    {
+      "symbol": "DEEPAKNTR.NS",
+      "name": "DEEPAKNTR.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=DEEPAKNTR.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:01.798095+00:00"
+    },
+    {
+      "symbol": "NAVINFLUOR.NS",
+      "name": "NAVINFLUOR.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=NAVINFLUOR.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:01.800346+00:00"
+    },
+    {
+      "symbol": "ALKEM.NS",
+      "name": "ALKEM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ALKEM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:01.802360+00:00"
+    },
+    {
+      "symbol": "TATACHEM.NS",
+      "name": "TATACHEM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TATACHEM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:01.804498+00:00"
+    },
+    {
+      "symbol": "VINATIORGA.NS",
+      "name": "VINATIORGA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=VINATIORGA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:01.854729+00:00"
+    },
+    {
+      "symbol": "ASTRAZEN.NS",
+      "name": "ASTRAZEN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ASTRAZEN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:02.036283+00:00"
+    },
+    {
+      "symbol": "TORNTPHARM.NS",
+      "name": "TORNTPHARM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TORNTPHARM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:02.058085+00:00"
+    },
+    {
+      "symbol": "AJANTPHARM.NS",
+      "name": "AJANTPHARM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=AJANTPHARM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:02.147122+00:00"
+    },
+    {
+      "symbol": "NATCOPHARM.NS",
+      "name": "NATCOPHARM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=NATCOPHARM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:02.214479+00:00"
+    },
+    {
+      "symbol": "GRANULES.NS",
+      "name": "GRANULES.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GRANULES.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:02.372416+00:00"
+    },
+    {
+      "symbol": "LAURUSLABS.NS",
+      "name": "LAURUSLABS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=LAURUSLABS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:02.853269+00:00"
+    },
+    {
+      "symbol": "GLENMARK.NS",
+      "name": "GLENMARK.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GLENMARK.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:02.855260+00:00"
+    },
+    {
+      "symbol": "ZYDUSLIFE.NS",
+      "name": "ZYDUSLIFE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ZYDUSLIFE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:02.865168+00:00"
+    },
+    {
+      "symbol": "BIOCON.NS",
+      "name": "BIOCON.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BIOCON.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:02.964393+00:00"
+    },
+    {
+      "symbol": "SYNGENE.NS",
+      "name": "SYNGENE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SYNGENE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:03.041322+00:00"
+    }
+  ],
+  "smallcap": [
+    {
+      "symbol": "SJS.NS",
+      "name": "SJS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SJS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:04.202853+00:00"
+    },
+    {
+      "symbol": "KPITTECH.NS",
+      "name": "KPITTECH.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=KPITTECH.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:04.200967+00:00"
+    },
+    {
+      "symbol": "BSE.NS",
+      "name": "BSE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BSE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:04.212976+00:00"
+    },
+    {
+      "symbol": "CAMS.NS",
+      "name": "CAMS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=CAMS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:04.227024+00:00"
     },
     {
       "symbol": "AARTIIND.NS",
-      "name": "AARTI INDUSTRIES LTD",
-      "sector": "Basic Materials",
-      "currency": "INR",
-      "price": 478.45,
-      "marketCap": 173546586112,
-      "pe": 41.496098,
-      "pb": 2.9042559,
-      "roe": 0.07249,
-      "debtToEquity": 83.392,
-      "dividendYield": 0.2,
-      "updatedAt": "2026-07-07T16:42:45.903703+00:00"
+      "name": "AARTIIND.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=AARTIIND.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:04.224444+00:00"
+    },
+    {
+      "symbol": "TARC.NS",
+      "name": "TARC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TARC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:04.238491+00:00"
+    },
+    {
+      "symbol": "MFL.NS",
+      "name": "MFL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MFL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:04.242259+00:00"
     },
     {
       "symbol": "GAEL.NS",
-      "name": "GUJARAT AMBUJA EXPORTS LT",
-      "sector": "Consumer Defensive",
-      "currency": "INR",
-      "price": 161.32,
-      "marketCap": 73992757248,
-      "pe": 24.331825,
-      "pb": 2.245827,
-      "roe": 0.09664,
-      "debtToEquity": 13.384,
-      "dividendYield": 0.15,
-      "updatedAt": "2026-07-07T16:42:46.359971+00:00"
+      "name": "GAEL.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GAEL.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:04.240472+00:00"
+    },
+    {
+      "symbol": "ROUTE.NS",
+      "name": "ROUTE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ROUTE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:04.252775+00:00"
+    },
+    {
+      "symbol": "IRCTC.NS",
+      "name": "IRCTC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=IRCTC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:05.114930+00:00"
+    },
+    {
+      "symbol": "EASEMYTRIP.NS",
+      "name": "EASEMYTRIP.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=EASEMYTRIP.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:05.385966+00:00"
+    },
+    {
+      "symbol": "ZOMATO.NS",
+      "name": "ZOMATO.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ZOMATO.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:05.393961+00:00"
+    },
+    {
+      "symbol": "RATEGAIN.NS",
+      "name": "RATEGAIN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=RATEGAIN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:05.401953+00:00"
+    },
+    {
+      "symbol": "HAPPSTMNDS.NS",
+      "name": "HAPPSTMNDS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=HAPPSTMNDS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:05.406895+00:00"
+    },
+    {
+      "symbol": "AFFLE.NS",
+      "name": "AFFLE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=AFFLE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:05.409744+00:00"
+    },
+    {
+      "symbol": "POLICYBZR.NS",
+      "name": "POLICYBZR.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=POLICYBZR.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:05.384095+00:00"
+    },
+    {
+      "symbol": "CARTRADE.NS",
+      "name": "CARTRADE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=CARTRADE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:05.417447+00:00"
     },
     {
       "symbol": "SAPPHIRE.NS",
-      "name": "SAPPHIRE FOODS INDIA LTD",
-      "sector": "Consumer Cyclical",
-      "currency": "INR",
-      "price": 188.88,
-      "marketCap": 60773650432,
-      "pe": null,
-      "pb": 4.36525,
-      "roe": -0.022950001,
-      "debtToEquity": 102.058,
-      "dividendYield": null,
-      "updatedAt": "2026-07-07T16:42:46.764740+00:00"
+      "name": "SAPPHIRE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SAPPHIRE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:05.944850+00:00"
     },
     {
       "symbol": "MINDACORP.NS",
-      "name": "MINDA CORPORATION LTD",
-      "sector": "Consumer Cyclical",
-      "currency": "INR",
-      "price": 686.25,
-      "marketCap": 161516421120,
-      "pe": 45.567726,
-      "pb": 6.1150565,
-      "roe": 0.14739001,
-      "debtToEquity": 55.348,
-      "dividendYield": 0.23,
-      "updatedAt": "2026-07-07T16:42:47.180624+00:00"
+      "name": "MINDACORP.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MINDACORP.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:05.953722+00:00"
+    },
+    {
+      "symbol": "NYKAA.NS",
+      "name": "NYKAA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=NYKAA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:06.635405+00:00"
+    },
+    {
+      "symbol": "DELHIVERY.NS",
+      "name": "DELHIVERY.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=DELHIVERY.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:06.918008+00:00"
+    },
+    {
+      "symbol": "TCIEXP.NS",
+      "name": "TCIEXP.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TCIEXP.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:06.925983+00:00"
+    },
+    {
+      "symbol": "MAHINDRA.NS",
+      "name": "MAHINDRA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MAHINDRA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:06.919266+00:00"
+    },
+    {
+      "symbol": "BLUEDART.NS",
+      "name": "BLUEDART.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BLUEDART.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:06.943837+00:00"
+    },
+    {
+      "symbol": "PBFINTECH.NS",
+      "name": "PBFINTECH.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=PBFINTECH.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:06.951245+00:00"
+    },
+    {
+      "symbol": "ESCORTS.NS",
+      "name": "ESCORTS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ESCORTS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:06.959754+00:00"
+    },
+    {
+      "symbol": "PAYTM.NS",
+      "name": "PAYTM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=PAYTM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:07.049774+00:00"
+    },
+    {
+      "symbol": "TAFE.NS",
+      "name": "TAFE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TAFE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:07.287923+00:00"
+    },
+    {
+      "symbol": "SWARAJENG.NS",
+      "name": "SWARAJENG.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SWARAJENG.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:07.286881+00:00"
+    },
+    {
+      "symbol": "SCHAEFFLER.NS",
+      "name": "SCHAEFFLER.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SCHAEFFLER.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:08.166704+00:00"
+    },
+    {
+      "symbol": "TUBEINVEST.NS",
+      "name": "TUBEINVEST.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TUBEINVEST.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:08.169950+00:00"
+    },
+    {
+      "symbol": "ENDURANCE.NS",
+      "name": "ENDURANCE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ENDURANCE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:08.172495+00:00"
+    },
+    {
+      "symbol": "MINDAIND.NS",
+      "name": "MINDAIND.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MINDAIND.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:08.174934+00:00"
+    },
+    {
+      "symbol": "TIMKEN.NS",
+      "name": "TIMKEN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TIMKEN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:08.177443+00:00"
+    },
+    {
+      "symbol": "UNOMINDA.NS",
+      "name": "UNOMINDA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=UNOMINDA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:08.180132+00:00"
+    },
+    {
+      "symbol": "GREAVES.NS",
+      "name": "GREAVES.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GREAVES.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:08.245835+00:00"
+    },
+    {
+      "symbol": "SUBROS.NS",
+      "name": "SUBROS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SUBROS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:08.331286+00:00"
+    },
+    {
+      "symbol": "SKFINDIA.NS",
+      "name": "SKFINDIA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SKFINDIA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:08.410413+00:00"
+    },
+    {
+      "symbol": "NRBBEARING.NS",
+      "name": "NRBBEARING.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=NRBBEARING.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:08.421136+00:00"
+    },
+    {
+      "symbol": "GALAXYSURF.NS",
+      "name": "GALAXYSURF.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GALAXYSURF.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:09.299527+00:00"
+    },
+    {
+      "symbol": "NAVINFLUOR.NS",
+      "name": "NAVINFLUOR.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=NAVINFLUOR.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:09.297280+00:00"
+    },
+    {
+      "symbol": "VINATIORGA.NS",
+      "name": "VINATIORGA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=VINATIORGA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:09.298713+00:00"
+    },
+    {
+      "symbol": "DEEPAKNTR.NS",
+      "name": "DEEPAKNTR.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=DEEPAKNTR.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:09.298092+00:00"
+    },
+    {
+      "symbol": "TORNTPHARM.NS",
+      "name": "TORNTPHARM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TORNTPHARM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:09.308660+00:00"
+    },
+    {
+      "symbol": "TATACHEM.NS",
+      "name": "TATACHEM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=TATACHEM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:09.302485+00:00"
+    },
+    {
+      "symbol": "ASTRAZEN.NS",
+      "name": "ASTRAZEN.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ASTRAZEN.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:09.313180+00:00"
+    },
+    {
+      "symbol": "ALKEM.NS",
+      "name": "ALKEM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ALKEM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:09.317804+00:00"
+    },
+    {
+      "symbol": "AJANTPHARM.NS",
+      "name": "AJANTPHARM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=AJANTPHARM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:09.604940+00:00"
+    },
+    {
+      "symbol": "NATCOPHARM.NS",
+      "name": "NATCOPHARM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=NATCOPHARM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:09.608688+00:00"
+    },
+    {
+      "symbol": "BIOCON.NS",
+      "name": "BIOCON.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BIOCON.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:10.453646+00:00"
+    },
+    {
+      "symbol": "DRLALPATH.NS",
+      "name": "DRLALPATH.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=DRLALPATH.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:10.458280+00:00"
+    },
+    {
+      "symbol": "GLENMARK.NS",
+      "name": "GLENMARK.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GLENMARK.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:10.467009+00:00"
+    },
+    {
+      "symbol": "LAURUSLABS.NS",
+      "name": "LAURUSLABS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=LAURUSLABS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:10.473171+00:00"
+    },
+    {
+      "symbol": "METROPOLIS.NS",
+      "name": "METROPOLIS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=METROPOLIS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:10.472045+00:00"
+    },
+    {
+      "symbol": "GRANULES.NS",
+      "name": "GRANULES.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GRANULES.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:10.481732+00:00"
+    },
+    {
+      "symbol": "ZYDUSLIFE.NS",
+      "name": "ZYDUSLIFE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ZYDUSLIFE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:10.524428+00:00"
+    },
+    {
+      "symbol": "SYNGENE.NS",
+      "name": "SYNGENE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SYNGENE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:10.522710+00:00"
+    },
+    {
+      "symbol": "LALPATHLAB.NS",
+      "name": "LALPATHLAB.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=LALPATHLAB.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:10.690217+00:00"
+    },
+    {
+      "symbol": "THYROCARE.NS",
+      "name": "THYROCARE.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=THYROCARE.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:10.701038+00:00"
+    },
+    {
+      "symbol": "MAXHEALTH.NS",
+      "name": "MAXHEALTH.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MAXHEALTH.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:11.410565+00:00"
+    },
+    {
+      "symbol": "KRSNAA.NS",
+      "name": "KRSNAA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=KRSNAA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:11.417540+00:00"
+    },
+    {
+      "symbol": "APOLLOHOSP.NS",
+      "name": "APOLLOHOSP.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=APOLLOHOSP.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:11.437473+00:00"
+    },
+    {
+      "symbol": "FORTIS.NS",
+      "name": "FORTIS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=FORTIS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:11.441121+00:00"
+    },
+    {
+      "symbol": "NARAYANA.NS",
+      "name": "NARAYANA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=NARAYANA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:11.436573+00:00"
+    },
+    {
+      "symbol": "MEDANTA.NS",
+      "name": "MEDANTA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MEDANTA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:11.443979+00:00"
+    },
+    {
+      "symbol": "HCG.NS",
+      "name": "HCG.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=HCG.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:11.558161+00:00"
+    },
+    {
+      "symbol": "ASTERDM.NS",
+      "name": "ASTERDM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ASTERDM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:11.569002+00:00"
+    },
+    {
+      "symbol": "RAINBOW.NS",
+      "name": "RAINBOW.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=RAINBOW.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:11.658892+00:00"
+    },
+    {
+      "symbol": "KRISHNA.NS",
+      "name": "KRISHNA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=KRISHNA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:11.697388+00:00"
+    },
+    {
+      "symbol": "INDRAD.NS",
+      "name": "INDRAD.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=INDRAD.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:12.527344+00:00"
+    },
+    {
+      "symbol": "SARVESH.NS",
+      "name": "SARVESH.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SARVESH.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:12.535184+00:00"
+    },
+    {
+      "symbol": "GRAVITA.NS",
+      "name": "GRAVITA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=GRAVITA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:12.525659+00:00"
+    },
+    {
+      "symbol": "SAGAR.NS",
+      "name": "SAGAR.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=SAGAR.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:12.547263+00:00"
+    },
+    {
+      "symbol": "HINDZINC.NS",
+      "name": "HINDZINC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=HINDZINC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:12.545565+00:00"
+    },
+    {
+      "symbol": "DEEPINDS.NS",
+      "name": "DEEPINDS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=DEEPINDS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:12.554164+00:00"
+    },
+    {
+      "symbol": "KFINTECH.NS",
+      "name": "KFINTECH.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=KFINTECH.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:12.885425+00:00"
+    },
+    {
+      "symbol": "CAMS.NS",
+      "name": "CAMS.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=CAMS.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:12.887851+00:00"
+    },
+    {
+      "symbol": "ASTEC.NS",
+      "name": "ASTEC.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ASTEC.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:12.891117+00:00"
+    },
+    {
+      "symbol": "NATCOPHARM.NS",
+      "name": "NATCOPHARM.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=NATCOPHARM.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:12.890318+00:00"
+    },
+    {
+      "symbol": "LINKINTIME.NS",
+      "name": "LINKINTIME.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=LINKINTIME.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:13.820654+00:00"
+    },
+    {
+      "symbol": "ALMONDZ.NS",
+      "name": "ALMONDZ.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=ALMONDZ.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:13.824807+00:00"
+    },
+    {
+      "symbol": "UNIONBANK.NS",
+      "name": "UNIONBANK.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=UNIONBANK.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:13.830474+00:00"
+    },
+    {
+      "symbol": "BANKINDIA.NS",
+      "name": "BANKINDIA.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=BANKINDIA.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:13.828914+00:00"
+    },
+    {
+      "symbol": "CENTRALBK.NS",
+      "name": "CENTRALBK.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=CENTRALBK.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:13.838237+00:00"
+    },
+    {
+      "symbol": "MCAP.NS",
+      "name": "MCAP.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=MCAP.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:13.843020+00:00"
+    },
+    {
+      "symbol": "INDIANB.NS",
+      "name": "INDIANB.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=INDIANB.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:14.132111+00:00"
+    },
+    {
+      "symbol": "CENTRALBK.NS",
+      "name": "CENTRALBK.NS",
+      "error": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/profile?symbol=CENTRALBK.NS&apikey=3HDFacpADoh7VMl6DiCHhskuTkoDgiQC",
+      "updatedAt": "2026-07-08T14:36:14.129536+00:00"
     }
   ]
 }

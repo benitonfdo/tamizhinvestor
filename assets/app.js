@@ -55,15 +55,32 @@ const translations = {
 
 const storageKey = 'tamizh-language';
 let currentLang = localStorage.getItem(storageKey) || 'ta';
+
+const themeStorageKey = 'tamizh-theme';
+let currentTheme = localStorage.getItem(themeStorageKey) || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+
 let currentStocks = [];
 const pageKey = document.body.dataset.page || 'largecap';
 const stockList = document.getElementById('stock-list');
 const searchInput = document.getElementById('stock-search');
 const sortSelect = document.getElementById('sort-select');
 const modal = document.getElementById('stock-modal');
+const themeToggle = document.getElementById('theme-toggle');
 
 function getValue(obj, path) {
   return path.split('.').reduce((acc, key) => acc?.[key], obj);
+}
+
+function applyTheme(theme) {
+  const selected = theme === 'dark' ? 'dark' : 'light';
+  currentTheme = selected;
+  localStorage.setItem(themeStorageKey, selected);
+  document.documentElement.setAttribute('data-theme', selected);
+  if (themeToggle) {
+    themeToggle.innerHTML = selected === 'dark' ? '☀️' : '🌙';
+    themeToggle.setAttribute('aria-label', selected === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
+    themeToggle.setAttribute('title', selected === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
+  }
 }
 
 function applyLanguage(lang) {
@@ -180,6 +197,13 @@ document.querySelectorAll('.lang-btn').forEach((button) => {
   button.addEventListener('click', () => applyLanguage(button.dataset.lang));
 });
 
+if (themeToggle) {
+  themeToggle.addEventListener('click', () => {
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    applyTheme(newTheme);
+  });
+}
+
 if (searchInput) {
   searchInput.addEventListener('input', renderStocks);
 }
@@ -202,5 +226,6 @@ modal?.addEventListener('click', (event) => {
   }
 });
 
+applyTheme(currentTheme);
 applyLanguage(currentLang);
 loadStockData();

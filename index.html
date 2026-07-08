@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ta">
+<html lang="ta" data-theme="light">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -36,6 +36,7 @@
             <button class="lang-btn active" data-lang="ta" aria-pressed="true">தமிழ்</button>
             <button class="lang-btn" data-lang="en" aria-pressed="false">English</button>
           </div>
+          <button class="theme-toggle" id="theme-toggle" aria-label="Switch to dark mode" title="Switch to dark mode">🌙</button>
         </div>
       </div>
     </header>
@@ -57,15 +58,7 @@
             <a class="btn btn-secondary" href="smallcap.html" data-i18n="home.hero.ctaSmall">சிறிய பங்குகள்</a>
           </div>
         </div>
-        <div class="hero-card">
-          <h2 data-i18n="home.heroCard.title">இந்தத் தளம் என்ன வழங்குகிறது?</h2>
-          <ul>
-            <li data-i18n="home.heroCard.item1">நிலையான HTML, CSS மற்றும் JavaScript கொண்ட GitHub Pages வடிவமைப்பு</li>
-            <li data-i18n="home.heroCard.item2">ஒவ்வொரு பங்கும் கிளிக் செய்யக்கூடிய விவரங்கள்</li>
-            <li data-i18n="home.heroCard.item3">பங்குகள், விகிதங்கள், அபாய மதிப்பீடு மற்றும் சுருக்கக் குறிப்புகள்</li>
-            <li data-i18n="home.heroCard.item4">சிறந்த வாசிப்புத்திறன் மற்றும் மொபைல் அனுபவம்</li>
-          </ul>
-        </div>
+
       </section>
 
       <section class="cards-grid">
@@ -89,7 +82,7 @@
       <section class="info-panel">
         <h2 data-i18n="home.infoPanel.title">செயல்முறைத் தளம்</h2>
         <p data-i18n="home.infoPanel.description">
-          இந்தத் தளம் நேரடி Yahoo Finance தரவுகளின் அடிப்படையில் உருவாக்கப்பட்டு, இப்போது துல்லியமான சந்தைப் மதிப்பீடுகளை வழங்குகிறது.
+          இந்தத் தளம் FMP (Financial Modeling Prep) API இன் மூலம் தரவுகளைப் பெற்று உருவாக்கப்பட்டு, துல்லியமான சந்தைப் மதிப்பீடுகளை வழங்குகிறது.
         </p>
       </section>
     </main>
@@ -114,6 +107,9 @@
         <p data-i18n="footer.disclaimer">
           முதலீட்டு ஆபத்து உள்ளது. இந்தத் தகவல் முதலீட்டு பரிந்துரை அல்ல; முடிவெடுப்பதற்கு
           தனிப்பட்ட ஆலோசனையுடன் இணைந்து ஆய்வு செய்யவும்.
+        </p>
+        <p class="fmp-attribution" style="font-size: 0.8rem; color: var(--muted); margin-top: 0.5rem;">
+          Data provided by <a href="https://financialmodelingprep.com" target="_blank" rel="noopener" style="color: var(--accent);">Financial Modeling Prep</a>
         </p>
       </div>
     </footer>
