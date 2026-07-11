@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "fundamentals",
+    "name": {
+      "ta": "அடிப்படைகள்",
+      "en": "Fundamentals"
+    },
+    "description": {
+      "ta": "முதலீட்டு அடிப்படைகள் — விதிவிதங்கள், முக்கிய கூறுகள், பங்கு மதிப்பீடு",
+      "en": "Investment basics — financial statements, key ratios, stock valuation"
+    },
+    "order": 1
+  },
+  {
+    "slug": "valuation",
+    "name": {
+      "ta": "மதிப்பீடு",
+      "en": "Valuation"
+    },
+    "description": {
+      "ta": "பங்குகள் மற்றும் நிறுவனங்களை மதிப்பிடும் முறைகள்",
+      "en": "Methods to value stocks and companies"
+    },
+    "order": 2
+  },
+  {
+    "slug": "bonds",
+    "name": {
+      "ta": "காண்கள்",
+      "en": "Bonds"
+    },
+    "description": {
+      "ta": "நியமித വരுவாய் dhீட்டுகள் — அரசு காண்கள், கம்பனி காண்கள், பாரம்பரிய vedic",
+      "en": "Fixed income investments — government bonds, corporate bonds, bond laddering"
+    },
+    "order": 3
+  },
+  {
+    "slug": "mutual-funds",
+    "name": {
+      "ta": "பகிர்ந்த நிதிகள்",
+      "en": "Mutual Funds"
+    },
+    "description": {
+      "ta": "மூட்டு நிதிகள், ETF, انڈெக்ஸ் நிதிகள் — வகைகள், தேர்வு, கட்டணம்",
+      "en": "Mutual funds, ETFs, index funds — types, selection, taxation"
+    },
+    "order": 4
+  },
+  {
+    "slug": "options",
+    "name": {
+      "ta": "விருப்பங்கள்",
+      "en": "Options"
+    },
+    "description": {
+      "ta": "விருப்ப வியாபாரம் — கால்கள், புட், стратеஜிகள், கிரிக்குகள், ஆபத்து மேலாண்மை",
+      "en": "Options trading — calls, puts, strategies, Greeks, risk management"
+    },
+    "order": 5
+  },
+  {
+    "slug": "taxation",
+    "name": {
+      "ta": "வரி",
+      "en": "Taxation"
+    },
+    "description": {
+      "ta": "முதலீட்டு வரி — STCG, LTCG, பலவிதம், TDS, வரி சேமிப்பு",
+      "en": "Investment taxation — STCG, LTCG, dividends, TDS, tax saving"
+    },
+    "order": 6
+  },
+  {
+    "slug": "risk-management",
+    "name": {
+      "ta": "ஆபத்து மேலாண்மை",
+      "en": "Risk Management"
+    },
+    "description": {
+      "ta": "போர்ட்ஃபோலியோ ஆபத்து மேலாண்மை — டைவர்சيفيக்கேஷன், போசிஷன் சைசிங், ஸ்டாப்-லாஸ்",
+      "en": "Portfolio risk management — diversification, position sizing, stop-loss"
+    },
+    "order": 7
+  },
+  {
+    "slug": "portfolio",
+    "name": {
+      "ta": "போர்ட்ஃபோலியோ",
+      "en": "Portfolio"
+    },
+    "description": {
+      "ta": "போர்ட்ஃபோலியோ கட்டுமானம் — ஆசெட் ألاக்கேஷன், ரிபாலன்ஸிங், இலக்குகள் அமைத்தல்",
+      "en": "Portfolio construction — asset allocation, rebalancing, goal setting"
+    },
+    "order": 8
+  }
+]

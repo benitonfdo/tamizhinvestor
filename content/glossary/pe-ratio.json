@@ -1,0 +1,14 @@
+{
+  "slug": "pe-ratio",
+  "term": {
+    "ta": "PE விகிதம்",
+    "en": "PE Ratio"
+  },
+  "definition": {
+    "ta": "விலை-வருமான விகிதம் (Price-to-Earnings Ratio) என்பது ஒரு நிறுவனத்தின் பங்கு விலையை அதன் பங்கு당 வருமானத்தைக் (EPS) கொண்டு வகுத்து கணக்கிடப்படும் ஒரு மதிப்பீட்டு அளவீடு. இது பங்கு மதிப்பை அரிய உதவுகிறது.",
+    "en": "The Price-to-Earnings (PE) ratio measures a company's stock price relative to its earnings per share (EPS). It helps assess whether a stock is overvalued or undervalued."
+  },
+  "relatedTerms": ["eps", "pb-ratio", "peg-ratio", "market-cap"],
+  "topics": ["fundamentals", "valuation"],
+  "updatedAt": "2026-07-10T09:00:00+05:30"
+}
