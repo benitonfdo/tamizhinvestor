@@ -1,0 +1,253 @@
+{
+  "id": "019f420d-745c-7674-8d43-358021581de3",
+  "name": "FMP API Dark Theme Refresh",
+  "description": "check this project if it uses FMP API to fetch stock data and generate the latest html also removed unwanted project related info and make it in dark theme.",
+  "status": "paused",
+  "worktree": {
+    "path": "/home/beniton/tamizhinvestor",
+    "branch": "main",
+    "commit": "8d547e1e1a2b1e9032a62cc83af37ed897dc7b43"
+  },
+  "scoping": {
+    "goal": {
+      "answer": "Verify FMP API usage, remove unwanted content, implement dark theme with toggle, refresh stock data with top 100 stocks per category, and add FMP attribution",
+      "confirmedAt": "2026-07-08T14:23:02.203Z"
+    },
+    "criteria": {
+      "answer": "FMP API usage confirmed in fetch_yahoo_data.py\nYahoo Finance references removed from index.html info panel\nHero card 'What this site offers' section removed from index.html\nDark theme implemented with light/dark toggle in header\nTheme preference persisted in localStorage, respects system preference\nAll CSS variables updated for dark mode\nScript updated to fetch top 100 stocks per category (large/mid/small cap) via FMP stock screener\nStock data refreshed: fetch_yahoo_data.py re-run to regenerate data/stocks.json\nAll 4 HTML pages render correctly in both themes\nNo console errors, modal functionality works in both themes\nFMP attribution/credits added in footer or info panel\nGitHub Actions refresh-stocks.yml verified to use FMP_API_KEY and updated script",
+      "confirmedAt": "2026-07-08T14:23:02.203Z"
+    },
+    "constraints": {
+      "answer": "Static GitHub Pages site - no backend changes, Must use existing FMP_API_KEY from GitHub secrets, Bilingual support (Tamil/English) must be preserved, Existing stock card/modal UI patterns must be maintained, GitHub Actions workflow must continue to run on schedule",
+      "confirmedAt": "2026-07-08T14:23:02.203Z"
+    },
+    "phases": {
+      "answer": "Update fetch script & refresh data, Implement dark theme & UI changes, Verify GitHub Actions & test",
+      "confirmedAt": "2026-07-08T14:23:02.203Z"
+    },
+    "assumptions": {
+      "answer": "FMP stock screener endpoint (stable/company-screener or v3/stock-screener) supports exchange=NSE and marketCap filters for Indian stocks. Market cap thresholds: Large cap > $2.4B, Mid cap $600M-$2.4B, Small cap < $600M (USD). The profile endpoint continues to work with .NS symbols. GitHub Actions has FMP_API_KEY secret configured. User has FMP_API_KEY locally to test script changes.",
+      "confirmedAt": "2026-07-08T14:23:02.203Z"
+    }
+  },
+  "phases": [
+    {
+      "id": "phase-1",
+      "index": 1,
+      "name": "Update fetch script & refresh data",
+      "goal": "Modify fetch_yahoo_data.py to use FMP stock screener for top 100 stocks per category, then regenerate stocks.json",
+      "description": "Replace hardcoded CATEGORIES with dynamic screener calls for NSE exchange with market cap ranges. Fetch profiles for returned symbols. Run script locally to generate fresh data/stocks.json.",
+      "parallel": false,
+      "status": "completed",
+      "steps": [
+        {
+          "id": "step-1",
+          "index": 1,
+          "description": "Update fetch_yahoo_data.py: add stock screener calls for large/mid/small cap with appropriate marketCapMoreThan/LowerThan and exchange=NSE, limit=100",
+          "status": "verified",
+          "verification": {
+            "command": "python scripts/fetch_yahoo_data.py && test -f data/stocks.json && python -c \"import json; d=json.load(open('data/stocks.json')); print({k: len(v) for k,v in d.items()})\"",
+            "retries": 2,
+            "retryDelayMs": 1000
+          },
+          "parallel": false,
+          "startedAt": "2026-07-08T14:23:22.733Z",
+          "completedAt": "2026-07-08T14:36:38.786Z",
+          "result": {
+            "success": true,
+            "exitCode": 0,
+            "stdout": "",
+            "stderr": "",
+            "completedAt": "2026-07-08T14:36:38.786Z"
+          }
+        },
+        {
+          "id": "step-2",
+          "index": 2,
+          "description": "Run updated script with FMP_API_KEY to generate fresh stocks.json with ~100 stocks per category",
+          "status": "verified",
+          "verification": {
+            "command": "test -f data/stocks.json && python -c \"import json; d=json.load(open('data/stocks.json')); print('largecap:', len(d.get('largecap', []))); print('midcap:', len(d.get('midcap', []))); print('smallcap:', len(d.get('smallcap', [])))\"",
+            "retries": 2,
+            "retryDelayMs": 1000
+          },
+          "parallel": false,
+          "startedAt": "2026-07-08T14:36:51.905Z",
+          "completedAt": "2026-07-08T14:36:58.848Z",
+          "result": {
+            "success": true,
+            "exitCode": 0,
+            "stdout": "",
+            "stderr": "",
+            "completedAt": "2026-07-08T14:36:58.848Z"
+          }
+        }
+      ],
+      "startedAt": "2026-07-08T14:23:11.232Z",
+      "completedAt": "2026-07-08T14:37:06.783Z",
+      "summary": "Phase 1 complete: Updated fetch_yahoo_data.py with expanded symbol lists (~100 per category) and concurrent fetching. Generated fresh data/stocks.json with 115 largecap, 115 midcap, 87 smallcap stocks. FMP API usage confirmed via stable/profile endpoint. Note: FMP stock screener requires paid tier (402 error), so used expanded hardcoded lists instead."
+    },
+    {
+      "id": "phase-2",
+      "index": 2,
+      "name": "Implement dark theme & UI changes",
+      "goal": "Add dark theme with toggle, remove unwanted content, add FMP attribution",
+      "description": "Update CSS variables for dark mode, add theme toggle button in header, update index.html to remove hero card and fix Yahoo reference, add FMP credits in footer",
+      "parallel": false,
+      "status": "active",
+      "steps": [
+        {
+          "id": "step-1",
+          "index": 1,
+          "description": "Update assets/styles.css: add dark mode CSS variables and [data-theme=dark] overrides for all color variables",
+          "status": "verified",
+          "verification": {
+            "command": "grep -q 'data-theme' assets/styles.css && grep -q 'dark' assets/styles.css",
+            "retries": 2,
+            "retryDelayMs": 1000
+          },
+          "parallel": false,
+          "startedAt": "2026-07-08T14:39:37.775Z",
+          "completedAt": "2026-07-08T14:40:53.965Z",
+          "result": {
+            "success": true,
+            "exitCode": 0,
+            "stdout": "",
+            "stderr": "",
+            "completedAt": "2026-07-08T14:40:53.965Z"
+          }
+        },
+        {
+          "id": "step-2",
+          "index": 2,
+          "description": "Update assets/app.js: add theme toggle logic (localStorage, system preference, toggle button handler)",
+          "status": "verified",
+          "verification": {
+            "command": "grep -q 'theme' assets/app.js && grep -q 'localStorage' assets/app.js",
+            "retries": 2,
+            "retryDelayMs": 1000
+          },
+          "parallel": false,
+          "startedAt": "2026-07-08T14:41:00.105Z",
+          "completedAt": "2026-07-08T14:43:57.264Z",
+          "result": {
+            "success": true,
+            "exitCode": 0,
+            "stdout": "",
+            "stderr": "",
+            "completedAt": "2026-07-08T14:43:57.264Z"
+          }
+        },
+        {
+          "id": "step-3",
+          "index": 3,
+          "description": "Update all 4 HTML files: add theme toggle button in header next to language switcher, add data-theme attribute to html/body",
+          "status": "verified",
+          "verification": {
+            "command": "grep -q 'theme-toggle' index.html largecap.html midcap.html smallcap.html",
+            "retries": 2,
+            "retryDelayMs": 1000
+          },
+          "parallel": false,
+          "startedAt": "2026-07-08T14:44:08.413Z",
+          "completedAt": "2026-07-08T14:51:38.288Z",
+          "result": {
+            "success": true,
+            "exitCode": 0,
+            "stdout": "",
+            "stderr": "",
+            "completedAt": "2026-07-08T14:51:38.288Z"
+          }
+        },
+        {
+          "id": "step-4",
+          "index": 4,
+          "description": "Update index.html: remove hero card section, update info panel text from Yahoo Finance to FMP",
+          "status": "pending",
+          "verification": {
+            "command": "! grep -q 'What this site offers' index.html && grep -q 'FMP' index.html",
+            "retries": 2,
+            "retryDelayMs": 1000
+          },
+          "parallel": false
+        },
+        {
+          "id": "step-5",
+          "index": 5,
+          "description": "Add FMP attribution/credits in footer across all pages",
+          "status": "pending",
+          "verification": {
+            "command": "grep -q 'Financial Modeling Prep' index.html largecap.html midcap.html smallcap.html",
+            "retries": 2,
+            "retryDelayMs": 1000
+          },
+          "parallel": false
+        }
+      ],
+      "startedAt": "2026-07-08T14:39:32.962Z"
+    },
+    {
+      "id": "phase-3",
+      "index": 3,
+      "name": "Verify GitHub Actions & test",
+      "goal": "Confirm workflow uses updated script and test full site in both themes",
+      "description": "Verify refresh-stocks.yml will work with updated script, test all pages locally",
+      "parallel": false,
+      "status": "planned",
+      "steps": [
+        {
+          "id": "step-1",
+          "index": 1,
+          "description": "Verify .github/workflows/refresh-stocks.yml uses FMP_API_KEY and runs updated fetch_yahoo_data.py",
+          "status": "pending",
+          "verification": {
+            "command": "grep -q 'FMP_API_KEY' .github/workflows/refresh-stocks.yml && grep -q 'fetch_yahoo_data.py' .github/workflows/refresh-stocks.yml",
+            "retries": 2,
+            "retryDelayMs": 1000
+          },
+          "parallel": false
+        },
+        {
+          "id": "step-2",
+          "index": 2,
+          "description": "Test all 4 pages in browser (or headless) for both light/dark themes - no console errors, modal works",
+          "status": "pending",
+          "verification": {
+            "command": "echo 'Manual verification: open index.html, largecap.html, midcap.html, smallcap.html in browser; toggle theme; verify no console errors; test modal; verify search/sort'",
+            "retries": 2,
+            "retryDelayMs": 1000
+          },
+          "parallel": false
+        }
+      ]
+    }
+  ],
+  "decisions": [],
+  "memories": [],
+  "createdAt": "2026-07-08T14:06:45.852Z",
+  "updatedAt": "2026-07-10T14:39:11.150Z",
+  "goal": "Verify FMP API usage, remove unwanted content, implement dark theme with toggle, refresh stock data with top 100 stocks per category, and add FMP attribution",
+  "successCriteria": [
+    "FMP API usage confirmed in fetch_yahoo_data.py",
+    "Yahoo Finance references removed from index.html info panel",
+    "Hero card 'What this site offers' section removed from index.html",
+    "Dark theme implemented with light/dark toggle in header",
+    "Theme preference persisted in localStorage, respects system preference",
+    "All CSS variables updated for dark mode",
+    "Script updated to fetch top 100 stocks per category (large/mid/small cap) via FMP stock screener",
+    "Stock data refreshed: fetch_yahoo_data.py re-run to regenerate data/stocks.json",
+    "All 4 HTML pages render correctly in both themes",
+    "No console errors, modal functionality works in both themes",
+    "FMP attribution/credits added in footer or info panel",
+    "GitHub Actions refresh-stocks.yml verified to use FMP_API_KEY and updated script"
+  ],
+  "constraints": [
+    "Static GitHub Pages site - no backend changes",
+    "Must use existing FMP_API_KEY from GitHub secrets",
+    "Bilingual support (Tamil/English) must be preserved",
+    "Existing stock card/modal UI patterns must be maintained",
+    "GitHub Actions workflow must continue to run on schedule"
+  ],
+  "lastActiveAt": "2026-07-08T14:39:32.962Z",
+  "activePhaseId": "phase-2"
+}
