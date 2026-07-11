@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "home": "Home",
+    "topics": "Topics",
+    "paths": "Learning Paths",
+    "glossary": "Glossary",
+    "market": "Market Outlook"
+  },
+  "common": {
+    "search": "Search",
+    "readMore": "Read More",
+    "estimatedTime": "Est. Time",
+    "lastUpdated": "Last Updated",
+    "sources": "Sources"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Structured, Transparent, in Tamil",
+      "title": "Start Your Investment Education Here",
+      "description": "Learn stocks, bonds, options, mutual funds, and more — all in Tamil.",
+      "cta": "Get Started"
+    },
+    "featured": { "title": "Featured Articles" },
+    "latest": { "title": "Latest" }
+  },
+  "topics": { "title": "Topics", "description": "Explore core investment topics" },
+  "paths": { "title": "Learning Paths", "description": "Step-by-step guided learning" },
+  "glossary": { "title": "Glossary", "description": "Understand investment terms in Tamil" },
+  "market": { "title": "Market Outlook", "description": "Weekly market digest" },
+  "footer": {
+    "disclaimer": "Investments carry risk. This information is not investment advice; do your own research with professional guidance.",
+    "about": "About Us",
+    "contact": "Contact"
+  }
+}
