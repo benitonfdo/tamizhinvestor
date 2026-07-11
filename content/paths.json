@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "fundamentals",
+    "name": {
+      "ta": "அடிப்படைகள்",
+      "en": "Fundamentals"
+    },
+    "description": {
+      "ta": "முதலீட்டு அடிப்படைகளை அளவிக்கவும் — விதிவிதங்கள் படிக்கவும், முக்கிய விகிதங்கள் புரிந்து கொள்ளவும், முதலமைச் பங்கு தேர்வு செய்யவும்",
+      "en": "Master investment basics — read financial statements, understand key ratios, pick your first stock"
+    },
+    "articleSlugs": ["pe-ratio"],
+    "order": 1
+  },
+  {
+    "slug": "valuation",
+    "name": {
+      "ta": "மதிப்பீடு",
+      "en": "Valuation"
+    },
+    "description": {
+      "ta": "பங்குகளை மதிப்பிடுவதைப் புரிந்து கொள்ளவும் — DCF,יחס karar embarassment, PB, EV/EBITDA",
+      "en": "Learn to value stocks — DCF, relative valuation, PB, EV/EBITDA"
+    },
+    "articleSlugs": [],
+    "order": 2
+  },
+  {
+    "slug": "bonds",
+    "name": {
+      "ta": "காண்கள்",
+      "en": "Bonds"
+    },
+    "description": {
+      "ta": "நியமித வருவாய் முதலீடுகளில் தேர்வுசெய்யவும் — விலை வைதியம், சாக்கு பைக்கிங், வரி திறன்",
+      "en": "Fixed income investing — bond pricing, laddering, tax efficiency"
+    },
+    "articleSlugs": [],
+    "order": 3
+  },
+  {
+    "slug": "options",
+    "name": {
+      "ta": "விருப்பங்கள்",
+      "en": "Options"
+    },
+    "description": {
+      "ta": "விருப்ப வியாபாரத்தின் அடிப்படைகள் — கால்கள்/புட், கிரிக்குகள், بانتஸ்ப்ரேட், ஆபத்து மிதிவினைகள்",
+      "en": "Options trading fundamentals — calls/puts, Greeks, spreads, risk-defined trades"
+    },
+    "articleSlugs": [],
+    "order": 4
+  },
+  {
+    "slug": "risk-management",
+    "name": {
+      "ta": "ஆபத்து மேலாண்மை",
+      "en": "Risk Management"
+    },
+    "description": {
+      "ta": "உங்கள் மூலதனத்தை பாதுகாப்பு செய்யவும் — டைவர்சيفيக்கேஷன், போசிஷன் சைசிங், ஸ்டாப்-லாஸ், மனநிலை",
+      "en": "Protect your capital — diversification, position sizing, stop-loss, psychology"
+    },
+    "articleSlugs": [],
+    "order": 5
+  }
+]
