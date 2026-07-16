@@ -1,0 +1,89 @@
+name: AI Generate Article
+
+on:
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: 'Topic slug (from content/topics.json)'
+        required: true
+        type: choice
+        options:
+          - fundamentals
+          - valuation
+          - bonds
+          - mutual-funds
+          - options
+          - taxation
+          - risk-management
+          - portfolio
+      level:
+        description: 'Article level'
+        required: true
+        type: choice
+        options:
+          - basics
+          - intermediate
+          - advanced
+      language:
+        description: 'Language(s) to generate'
+        required: true
+        type: choice
+        options:
+          - both
+          - ta
+          - en
+      title_idea:
+        description: 'Optional title idea or topic focus'
+        required: false
+        type: string
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate article (stub - Phase 0)
+        id: generate
+        run: |
+          echo "::notice ::Grok integration pending (Phase 2). This is a stub workflow."
+          echo "topic=${{ github.event.inputs.topic }}" >> $GITHUB_OUTPUT
+          echo "level=${{ github.event.inputs.level }}" >> $GITHUB_OUTPUT
+          echo "language=${{ github.event.inputs.language }}" >> $GITHUB_OUTPUT
+          echo "title_idea=${{ github.event.inputs.title_idea }}" >> $GITHUB_OUTPUT
+
+      - name: Create PR (placeholder)
+        if: false
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ai/generate-${{ github.event.inputs.topic }}-${{ github.event.inputs.level }}-${{ github.run_id }}
+          title: 'AI: Generate article on ${{ github.event.inputs.topic }} (${{ github.event.inputs.level }})'
+          body: |
+            Auto-generated article via Grok API.
+            
+            - Topic: ${{ github.event.inputs.topic }}
+            - Level: ${{ github.event.inputs.level }}
+            - Language: ${{ github.event.inputs.language }}
+            - Title idea: ${{ github.event.inputs.title_idea || 'None' }}
+            
+            This PR will be auto-merged for 'basics' level after validation passes.
+            For 'intermediate' and 'advanced', human review is required.
+          labels: |
+            ai-generated
+            level/${{ github.event.inputs.level }}
